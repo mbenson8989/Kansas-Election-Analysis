@@ -1,0 +1,86 @@
+{
+ "D_votes_22": 499849,
+ "R_votes_22": 477591,
+ "other_votes_22": 31558,
+ "total_votes_22": 1008998,
+ "D_reg_22": 523317,
+ "total_reg_22": 1975535,
+ "D_votes_26": 551243,
+ "R_votes_26": 543599,
+ "total_votes_26": 1094842,
+ "D_reg_26": 521669,
+ "total_reg_26": 2027520,
+ "ballots_22": 1020208,
+ "blank_vote_cells_2022": 28,
+ "reg22_grand_total_row": [
+  523317,
+  1975535
+ ],
+ "reg26_grand_total_row": [
+  521669,
+  2027520
+ ],
+ "big_county_precinct_vs_total_row": {
+  "JOHNSON": {
+   "precinct_sum": {
+    "D": 155104,
+    "R": 102162,
+    "O": 5431
+   },
+   "county_total_row": {
+    "D": 155104,
+    "R": 102162,
+    "O": 5431
+   },
+   "match": true,
+   "redacted_precinct_rows": 0
+  },
+  "SEDGWICK": {
+   "precinct_sum": {
+    "D": 77727,
+    "R": 72884,
+    "O": 4595
+   },
+   "county_total_row": {
+    "D": 77727,
+    "R": 72884,
+    "O": 4595
+   },
+   "match": true,
+   "redacted_precinct_rows": 0
+  },
+  "SHAWNEE": {
+   "precinct_sum": {
+    "D": 39312,
+    "R": 24882,
+    "O": 1720
+   },
+   "county_total_row": {
+    "D": 39312,
+    "R": 24882,
+    "O": 1720
+   },
+   "match": true,
+   "redacted_precinct_rows": 0
+  },
+  "WYANDOTTE": {
+   "precinct_sum": {
+    "D": 23768,
+    "R": 10244,
+    "O": 1023
+   },
+   "county_total_row": {
+    "D": 23772,
+    "R": 10249,
+    "O": 1023
+   },
+   "match": false,
+   "redacted_precinct_rows": 4
+  }
+ },
+ "transcription_vs_refetch_diffs": [],
+ "ent_last_updated_values": [
+  "11/08/2026 9:15 PM"
+ ],
+ "all_precincts_reported_2026": true
+}

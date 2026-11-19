@@ -1,0 +1,29 @@
+{
+ "D_votes_22": 499849,
+ "R_votes_22": 477591,
+ "other_votes_22": 31558,
+ "total_votes_22": 1008998,
+ "D_reg_22": 523317,
+ "total_reg_22": 1975535,
+ "D_votes_26": 551243,
+ "R_votes_26": 543599,
+ "total_votes_26": 1094842,
+ "D_reg_26": 521669,
+ "total_reg_26": 2027520,
+ "ballots_22": 1020208,
+ "adv_mail_22_reported_sum": 129973,
+ "adv_mail_22_NA": [
+  "Bourbon",
+  "Cherokee",
+  "Osage",
+  "Rice"
+ ],
+ "reg22_grand_total_row": [
+  523317,
+  1975535
+ ],
+ "reg26_grand_total_row": [
+  521669,
+  2027520
+ ]
+}

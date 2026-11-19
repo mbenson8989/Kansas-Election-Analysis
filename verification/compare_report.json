@@ -1,0 +1,104 @@
+{
+ "counties": 105,
+ "fields_per_county": 16,
+ "figures_A_vs_B": 1680,
+ "mismatches_A_vs_B": [],
+ "figures_A_vs_published": 1260,
+ "mismatches_A_vs_published": [],
+ "statewide_checks": [
+  {
+   "item": "D_votes_22",
+   "SOS": 499849,
+   "passA": 499849,
+   "passB": 499849,
+   "ok": true
+  },
+  {
+   "item": "R_votes_22",
+   "SOS": 477591,
+   "passA": 477591,
+   "passB": 477591,
+   "ok": true
+  },
+  {
+   "item": "other_votes_22",
+   "SOS": 31558,
+   "passA": 31558,
+   "passB": 31558,
+   "ok": true
+  },
+  {
+   "item": "D_votes_26",
+   "SOS": 551243,
+   "passA": 551243,
+   "passB": 551243,
+   "ok": true
+  },
+  {
+   "item": "R_votes_26",
+   "SOS": 543599,
+   "passA": 543599,
+   "passB": 543599,
+   "ok": true
+  },
+  {
+   "item": "total_votes_26",
+   "SOS": 1094842,
+   "passA": 1094842,
+   "passB": 1094842,
+   "ok": true
+  },
+  {
+   "item": "reg22 county sum vs SOS Grand Total row",
+   "SOS": [
+    523317,
+    1975535
+   ],
+   "passA": [
+    523317,
+    1975535
+   ],
+   "passB": [
+    523317,
+    1975535
+   ],
+   "ok": true
+  },
+  {
+   "item": "reg26 county sum vs SOS Grand Total row",
+   "SOS": [
+    521669,
+    2027520
+   ],
+   "passA": [
+    521669,
+    2027520
+   ],
+   "passB": [
+    521669,
+    2027520
+   ],
+   "ok": true
+  }
+ ],
+ "transcription_vs_SOS_refetch_diffs": [],
+ "ent_last_updated": [
+  "11/08/2026 9:15 PM"
+ ],
+ "wyandotte_2022_note": {
+  "precinct_sum": {
+   "D": 23768,
+   "R": 10244,
+   "O": 1023
+  },
+  "county_total_row": {
+   "D": 23772,
+   "R": 10249,
+   "O": 1023
+  },
+  "match": false,
+  "redacted_precinct_rows": 4
+ },
+ "blank_vote_cells_2022": 28,
+ "CLEAN": true
+}
