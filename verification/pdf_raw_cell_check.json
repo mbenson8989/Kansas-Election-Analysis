@@ -1,0 +1,58 @@
+{
+ "rows_found": 106,
+ "expected_rows": 106,
+ "cells_checked": 1590,
+ "mismatches": [],
+ "order_matches_raw_sort": true,
+ "statewide_checks": {
+  "reg22_sum_vs_grand_total": [
+   [
+    523317,
+    1975535
+   ],
+   [
+    523317,
+    1975535
+   ]
+  ],
+  "reg26_sum_vs_grand_total": [
+   [
+    521669,
+    2027520
+   ],
+   [
+    521669,
+    2027520
+   ]
+  ],
+  "gov22_sum_vs_official_totals_pdf": [
+   [
+    499849,
+    1008998
+   ],
+   [
+    499849,
+    1008998
+   ]
+  ],
+  "gov26_D_sum_vs_holscher_551243": [
+   551243,
+   551243
+  ],
+  "last_updated": [
+   "11/08/2026 9:15 PM"
+  ]
+ },
+ "statewide_ok": true,
+ "facts": {
+  "legend_reg_rose_list": true,
+  "votes_fell_count": true,
+  "leads_by_share": true,
+  "leads_raw": true,
+  "precincts_4168": true,
+  "pages": 3,
+  "page_labels": true,
+  "header_repeats": true
+ },
+ "PASS": true
+}

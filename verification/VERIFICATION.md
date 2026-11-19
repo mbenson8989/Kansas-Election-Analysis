@@ -62,3 +62,9 @@ A negative test (changing Seward's 2022 Democratic votes by 1 and two ΔG values
 
 - Pass A (`scripts/eq_pass_a.py`, statsmodels on the pass A tables) and pass B (`scripts/eq_pass_b.py`, exact fractions from the pass B integer counts) computed the ΔG-on-registration-share-drop fit, the three forward surplus fits and the Seward/Johnson worked values: 44 figures, 0 mismatches.
 - `scripts/verify_wiki.py` recomputes the same fit a third time with numpy and checks every number in the new section (0 mismatches; planted errors caught). The section was inserted only; the rest of the page is byte-identical.
+
+
+## Nov 19, 2026: Kansas 105-county PDF
+
+- `Kansas_105_County_Democratic_Registration_and_Vote_Change.pdf` (3 pages). Rows computed twice: pass A (`scripts/pdf_pass_a.py`, pandas) and pass B (`scripts/pdf_pass_b.py`, exact fractions): 106 rows x 15 cells = 1,590 cells, 0 mismatches.
+- Raw-source cell check (`scripts/pdf_raw_check.py`): parses the raw SOS files directly (2022 precinct workbook by party column, 2026 county result pages with BeautifulSoup, the Nov 1 2022 and Oct 1 2026 registration workbooks, Census population), recomputes every displayed figure with half-up rounding and compares it with the text pdftotext extracts from the PDF: 1,590 cells, 0 mismatches; row order, statewide sums vs SOS published totals, legend lists and page labels all confirmed. A planted-error PDF was caught (3 of 3).
