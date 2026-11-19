@@ -1,8 +1,9 @@
 {
- "table_rows": 115,
- "table_cells": 1015,
+ "county_field_pairs": 945,
+ "table_rows": 220,
+ "table_cells": 1120,
  "cell_mismatches": [],
- "tokens": 1371,
+ "tokens": 1478,
  "unmatched": [],
  "PASS": true
 }

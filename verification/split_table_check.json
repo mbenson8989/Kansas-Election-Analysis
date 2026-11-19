@@ -1,0 +1,31 @@
+{
+ "table1": {
+  "original_cols": 13,
+  "part_a_cols": 7,
+  "part_b_cols": 8,
+  "rows": 105,
+  "county_pop_aligned": true,
+  "cells_identical": true,
+  "original_cells": 1365,
+  "new_cells": 1575
+ },
+ "table2": {
+  "original_cols": 10,
+  "part_a_cols": 5,
+  "part_b_cols": 7,
+  "rows": 105,
+  "county_pop_aligned": true,
+  "cells_identical": true,
+  "original_cells": 1050,
+  "new_cells": 1260
+ },
+ "tokens_missing": {},
+ "extra_tokens_minus_repeated_population": {
+  "2026": 2,
+  "105": 3,
+  "2022": 2
+ },
+ "repeated_population_tokens": 210,
+ "extra_equals_population": true,
+ "ALL_OK": true
+}

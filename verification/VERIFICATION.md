@@ -50,3 +50,9 @@ A negative test (changing Seward's 2022 Democratic votes by 1 and two ΔG values
 - Pass A (`scripts/resid_pass_a.py`, pandas) and pass B (`scripts/resid_pass_b.py`, exact fractions, no pandas) each re-ran their own raw-file parse, then computed expected loss, residual, ΔG, backward-solved offset votes, the Nebraska comparison lines and the statewide offset need. Figures compared: **962** (105 counties × 9 fields, plus 14 statewide figures). Mismatches: **0**. Pass B also asserts, in exact arithmetic, that residual = ΔG − expected loss = S26 − S22 and that residual × N26 ÷ 100 = D26 − S22 × N26 ÷ 100 for every county.
 - New-section number check (`scripts/verify_addendum.py`, from pass B outputs): 115 table rows, 1015 cells, 1371 numeric tokens; 0 mismatches, 0 unmatched. Negative test caught.
 - Append-only check (`scripts/append_and_diff.py`): for all five pages, the first bytes of the new page equal the published page (commit b31867e) byte for byte, and the rest equals the appended section. Home +664 bytes, Reverse-Math +20554 bytes, other pages unchanged.
+
+
+## Nov 19, 2026: Reverse-Math wide tables split (layout only)
+
+- The two 105-county tables on Reverse-Math were split into Part A / Part B so they fit the page without sideways scrolling. `scripts/split_check.py` rejoins the parts and confirms every cell is identical to the pre-split table (`verification/split_table_check.json`).
+- Both number checks still pass with 0 mismatches and the same county-field coverage (1,260 pairs on the locked pages, 945 on the expected-loss layer); the only added numbers are the repeated Population column (210 cells) and the Part labels.

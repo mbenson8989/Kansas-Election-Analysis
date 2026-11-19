@@ -83,6 +83,14 @@ add(sum(int(c['prec_tot_26']) for c in cs)); add(2*N); CR=json.load(open(V+'comp
 # structural constants that are not data values (years, dates/times, counts of things, template numbers)
 STRUCT={'100','2022','2026','2025','2024','2020','11','08','9','15','19','17','16','1','2','3','4','5','6','10','7','12','13','14','18','20','0.20','105','99','93','66','101','4,168','2.0','3.0','25','95'}
 issues=[]; ntok=0
+ADD_MARKERS=('## Expected-Loss Residual and Backward-Solved','## Added Nov 19, 2026: expected-loss')
+def page_lines(fn):
+    out=[]
+    for l in open(fn).read().split('\n'):
+        if l.startswith(ADD_MARKERS): break
+        out.append(l+'\n')
+    return out
+pairs=set()
 # (1) county table rows
 H={'Population':'population_2025','Dem gov votes 2022':'D_votes_22','Total gov votes 2022':'total_votes_22','Dem reg 2022':'D_reg_22','Total reg 2022':'total_reg_22','G 2022':'G22',
    'Dem gov votes 2026*':'D_votes_26','Total gov votes 2026*':'total_votes_26','Dem reg 2026':'D_reg_26','Total reg 2026':'total_reg_26','G 2026*':'G26','ΔG*':'dG'}
@@ -90,7 +98,7 @@ def nv(s): s=s.replace('\\','').replace('*','').replace('−','-').replace(',','
 nrow=ncell=0
 for fn in sorted(glob.glob(W+'*.md')):
     hdr=None
-    for line in open(fn):
+    for line in page_lines(fn):
         if line.startswith('|') and not line.startswith('|---'):
             cells=[x.strip() for x in line.strip().strip('|').split('|')]
             if cells[0]=='County': hdr=[h.replace('\\','') for h in cells]; continue
@@ -98,7 +106,7 @@ for fn in sorted(glob.glob(W+'*.md')):
                 nrow+=1; c=C[cells[0]]
                 for h,v in zip(hdr,cells):
                     if h in H:
-                        ncell+=1; exp=c[H[h]]; got=nv(v)
+                        ncell+=1; pairs.add((cells[0],H[h])); exp=c[H[h]]; got=nv(v)
                         if (H[h] in ('G22','G26','dG') and abs(got-round(exp,2))>1e-9) or (H[h] not in ('G22','G26','dG') and got!=exp): issues.append((os.path.basename(fn),cells[0],h,v,exp))
         else: hdr=None if not line.startswith('|') else hdr
 # (2) every numeric token
@@ -107,7 +115,7 @@ unmatched=[]
 CN=sorted(C,key=len,reverse=True)
 for fn in sorted(glob.glob(W+'*.md')):
     ctx=set()
-    for raw in open(fn):
+    for raw in page_lines(fn):
         line=raw
         if line.startswith('#'): ctx={c for c in CN if re.search(r'\b'+re.escape(c)+r'\b',line)}
         here={c for c in CN if re.search(r'\b'+re.escape(c)+r'\b',line)}|ctx
@@ -120,8 +128,8 @@ for fn in sorted(glob.glob(W+'*.md')):
             if t.lstrip('+−-') in STRUCT or core in STRUCT: continue
             if core in allowed or ('e' in core and f"{float(core):.1e}" in allowed): continue
             unmatched.append((os.path.basename(fn),t,txt[max(0,m.start()-60):m.end()+20].strip()))
-rep=dict(table_rows_checked=nrow,table_cells_checked=ncell,table_cell_mismatches=issues,numeric_tokens_checked=ntok,unmatched_tokens=unmatched,PASS=not issues and not unmatched)
+rep=dict(county_field_pairs=len(pairs),table_rows_checked=nrow,table_cells_checked=ncell,table_cell_mismatches=issues,numeric_tokens_checked=ntok,unmatched_tokens=unmatched,PASS=not issues and not unmatched)
 json.dump(rep,open(V+'wiki_number_check.json','w'),indent=1,default=str)
-print(json.dumps({k:rep[k] for k in ('table_rows_checked','table_cells_checked','numeric_tokens_checked','PASS')}),len(issues),len(unmatched))
+print(json.dumps({k:rep[k] for k in ('county_field_pairs','table_rows_checked','table_cells_checked','numeric_tokens_checked','PASS')}),len(issues),len(unmatched))
 for u in unmatched[:80]: print(u)
 for i in issues[:20]: print(i)

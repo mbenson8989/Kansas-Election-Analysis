@@ -33,9 +33,18 @@ STRUCT={'100','2022','2026','105','1','2','3','4','5','6','12','19','11','08','9
 H={'Population':'pop','Expected loss (pts)':'exp_loss','ΔG*':'dG','Residual* (pts)':'residual','Total gov votes 2026*':'N26','Backward-solved offset votes*':'offset_votes','Gap in votes* (NE comparison)':'gap_votes_ne'}
 issues=[]; unmatched=[]; ncell=nrow=ntok=0
 TOK=re.compile(r'(?<![\w.])[+−-]?\d[\d,]*(?:\.\d+)?')
+WK='/workspace/kansas-wiki/wikiclone/'
+def section(page,marker,stop=('---',)):
+    L=open(WK+page).read().split('\n'); i=next(k for k,l in enumerate(L) if l.startswith(marker)); out=[]
+    for l in L[i:]:
+        if page=='Home.md' and l.strip() in stop: break   # Home: the section ends at the page footer
+        out.append(l+'\n')
+    return out
+SECT={'Reverse-Math.append.md':section('Reverse-Math.md','## Expected-Loss Residual and Backward-Solved'),'Home.append.md':section('Home.md','## Added Nov 19, 2026: expected-loss')}
+pairs=set()
 for fn in ('Reverse-Math.append.md','Home.append.md'):
     hdr=None; ctx=set()
-    for line in open(A+fn):
+    for line in SECT[fn]:
         if line.startswith('|') and not line.startswith('|---'):
             cells=[x.strip().replace('\\','') for x in line.strip().strip('|').split('|')]
             if cells[0]=='County': hdr=cells; continue
@@ -44,11 +53,11 @@ for fn in ('Reverse-Math.append.md','Home.append.md'):
                 nrow+=1
                 for h,v in zip(hdr,cells):
                     if h in H:
-                        ncell+=1; exp=C[cn][H[h]]; got=float(v.replace('*','').replace('−','-').replace(',','').replace('+',''))
+                        ncell+=1; pairs.add((cn,H[h])); exp=C[cn][H[h]]; got=float(v.replace('*','').replace('−','-').replace(',','').replace('+',''))
                         tol=0.5000001 if H[h] in ('offset_votes','gap_votes_ne') else (0.005000001 if H[h] in('exp_loss','dG','residual') else 0)
                         if abs(got-exp)>tol: issues.append((fn,cn,h,v,exp))
                     if h in('Dem reg 2022 → 2026','Dem reg share 2022 → 2026'):
-                        ncell+=1; a,b=[float(x.replace('%','').replace(',','')) for x in v.split('→')]
+                        ncell+=1; pairs.add((cn,h)); a,b=[float(x.replace('%','').replace(',','')) for x in v.split('→')]
                         ea,eb=(C[cn]['DR22'],C[cn]['DR26']) if 'share' not in h else (C[cn]['D22'],C[cn]['D26'])
                         if abs(a-ea)>0.005000001 or abs(b-eb)>0.005000001: issues.append((fn,cn,h,v,(ea,eb)))
         if line.startswith('#'): ctx={c for c in C if re.search(r'\b'+re.escape(c)+r'\b',line)}
@@ -61,8 +70,8 @@ for fn in ('Reverse-Math.append.md','Home.append.md'):
             t=m.group(0); ntok+=1; core=t.lstrip('+−-').replace(',','')
             if core in STRUCT or core in allowed: continue
             unmatched.append((fn,t,txt[max(0,m.start()-60):m.end()+15].strip()))
-rep=dict(table_rows=nrow,table_cells=ncell,cell_mismatches=issues,tokens=ntok,unmatched=unmatched,PASS=not issues and not unmatched)
+rep=dict(county_field_pairs=len(pairs),table_rows=nrow,table_cells=ncell,cell_mismatches=issues,tokens=ntok,unmatched=unmatched,PASS=not issues and not unmatched)
 json.dump(rep,open(V+'addendum_number_check.json','w'),indent=1,default=str)
-print({k:rep[k] for k in ('table_rows','table_cells','tokens','PASS')},len(issues),len(unmatched))
+print({k:rep[k] for k in ('county_field_pairs','table_rows','table_cells','tokens','PASS')},len(issues),len(unmatched))
 for u in unmatched[:40]: print(u)
 for i in issues[:20]: print(i)
