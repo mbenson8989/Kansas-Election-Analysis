@@ -56,3 +56,9 @@ A negative test (changing Seward's 2022 Democratic votes by 1 and two ΔG values
 
 - The two 105-county tables on Reverse-Math were split into Part A / Part B so they fit the page without sideways scrolling. `scripts/split_check.py` rejoins the parts and confirms every cell is identical to the pre-split table (`verification/split_table_check.json`).
 - Both number checks still pass with 0 mismatches and the same county-field coverage (1,260 pairs on the locked pages, 945 on the expected-loss layer); the only added numbers are the repeated Population column (210 cells) and the Part labels.
+
+
+## Nov 19, 2026: Kansas final fitted equation (Locked-Kansas-Formula)
+
+- Pass A (`scripts/eq_pass_a.py`, statsmodels on the pass A tables) and pass B (`scripts/eq_pass_b.py`, exact fractions from the pass B integer counts) computed the ΔG-on-registration-share-drop fit, the three forward surplus fits and the Seward/Johnson worked values: 44 figures, 0 mismatches.
+- `scripts/verify_wiki.py` recomputes the same fit a third time with numpy and checks every number in the new section (0 mismatches; planted errors caught). The section was inserted only; the rest of the page is byte-identical.

@@ -80,6 +80,16 @@ sp=stats.spearmanr([c['adv_mail_22']/c['ballots_22'] for c in ok],[c['dG'] for c
 wb=openpyxl.load_workbook(RAW+'11-2022-Voter-Registration-Numbers-by-County.xlsx',read_only=True)
 gt=[r for r in wb.active.iter_rows(values_only=True) if r[0]=='Grand Total'][0]; add(int(gt[4])); add(100*int(gt[4])/int(gt[5]))
 add(sum(int(c['prec_tot_26']) for c in cs)); add(2*N); CR=json.load(open(V+'compare_report.json')); add(CR['figures_A_vs_B']); add(CR['fields_per_county']); add(len(CR['mismatches_A_vs_B'])); add(105-(arr('D_reg_26')<arr('D_reg_22')).sum())
+
+# Kansas final fitted equation (Locked page): ΔG on the registration-share drop, recomputed here with numpy (third independent computation)
+def add4(x,bucket=None):
+    add(x,bucket); (vals if bucket is None else CV.setdefault(bucket,set())).add(f"{abs(float(x)):.4f}")
+el=D22-D26; Xe=np.c_[np.ones(N),el]; be=np.linalg.lstsq(Xe,dG,rcond=None)[0]; re_=dG-Xe@be; s2e=re_@re_/(N-2); see=np.sqrt(np.diag(s2e*np.linalg.inv(Xe.T@Xe)))
+te=be[1]/see[1]; r2e=1-re_@re_/((dG-dG.mean())@(dG-dG.mean()))
+for v in (be[0],be[1],see[0],see[1],te,2*stats.t.sf(abs(te),N-2),r2e,np.sqrt(s2e),100*r2e): add4(v)
+for f in (f22,f26,fp): add(f[10]); add(f[11])
+sw=idx['Seward']; c4,m4=round(be[0],4),round(be[1],4); x4=round(el[sw],4)
+for v in (el[sw],m4*x4,c4+m4*x4,dG[sw]-(be[0]+be[1]*el[sw]),D22[sw],D26[sw],b26[1],b26[0],b26[1]*D26[sw]/100+b26[0]): add4(v,'Seward')
 # structural constants that are not data values (years, dates/times, counts of things, template numbers)
 STRUCT={'100','2022','2026','2025','2024','2020','11','08','9','15','19','17','16','1','2','3','4','5','6','10','7','12','13','14','18','20','0.20','105','99','93','66','101','4,168','2.0','3.0','25','95'}
 issues=[]; ntok=0
