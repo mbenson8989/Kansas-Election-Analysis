@@ -17,3 +17,5 @@ County-level analysis of the Kansas governor race, 2022 (official) vs 2026 (**UN
 These files measure a pattern; they make no claim about intent, fraud or cause.
 
 Other state analyses: [Nebraska](https://github.com/mbenson8989/Nebraska-Election-Analysis-) · [Iowa](https://github.com/mbenson8989/Iowa-Election-Analysis) · [South Dakota](https://github.com/mbenson8989/South-Dakota-Election-Analysis) · [Texas](https://github.com/mbenson8989/Texas-Election-Analysis) · [Michigan](https://github.com/mbenson8989/Michigan-Election-Analysis)
+
+**Added Nov 19, 2026:** a separate expected-loss residual and backward-solved offset-votes layer (Nebraska / Iowa / South Dakota method) on the Reverse-Math wiki page; data in `KS_Expected_Loss_Residual_Offset_Votes_by_County.csv`. The locked G / ΔG files are unchanged.

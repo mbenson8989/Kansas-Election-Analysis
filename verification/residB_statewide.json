@@ -1,0 +1,27 @@
+{
+ "exp_loss": 0.7604742760900445,
+ "residual": 0.8099447096030392,
+ "offset_votes_pooled": 8867.614857512106,
+ "offset_votes_county_sum": 2628.3305180751904,
+ "offset_votes_sum_loss_counties": -7746.058371907346,
+ "offset_votes_sum_nonloss": 10374.388889982536,
+ "gap_votes_ne_sum": 52874.672853859665,
+ "resid_votes_ne_live_sum": 9633.56541383044,
+ "offset_need": {
+  "0": {
+   "switched": 8325.991773829764,
+   "added": 16516.094798219932
+  },
+  "1": {
+   "switched": 19274.411773829765,
+   "added": 37490.55310461631
+  },
+  "2": {
+   "switched": 30222.831773829766,
+   "added": 57664.633432708695
+  }
+ },
+ "n_resid_pos": 17,
+ "n_resid_neg": 88,
+ "n_loss": 93
+}

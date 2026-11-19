@@ -1,0 +1,42 @@
+{
+ "exp_loss": 0.7604742760900471,
+ "dG": 1.5704189856930846,
+ "residual": 0.8099447096030374,
+ "offset_votes_pooled": 8867.614857512086,
+ "offset_votes_county_sum": 2628.330518037437,
+ "offset_votes_sum_loss_counties": -7746.05837194601,
+ "offset_votes_sum_nonloss": 10374.388889983447,
+ "gap_votes_ne_sum": 52874.67285385967,
+ "resid_votes_ne_live_sum": 9633.565413918977,
+ "D_change": 51394.0,
+ "turnout_part": 42526.38514248791,
+ "offset_need": {
+  "0": {
+   "switched": 8325.991773829794,
+   "added": 16516.094798219983
+  },
+  "1": {
+   "switched": 19274.411773829794,
+   "added": 37490.55310461636
+  },
+  "2": {
+   "switched": 30222.831773829796,
+   "added": 57664.63343270874
+  }
+ },
+ "median_residual": -2.9258321054000005,
+ "mean_residual": -2.854981368548571,
+ "sd_residual": 3.8635361661975707,
+ "n_resid_pos": 17,
+ "n_resid_neg": 88,
+ "n_loss": 93,
+ "n_exp_loss_pos": 98,
+ "median_exp_loss": 1.2042510010000003,
+ "ks_fit_dG_on_exp_loss": {
+  "a": -1.0852694152512117,
+  "b": -0.30694049473009644,
+  "b_se": 0.4096634528659246,
+  "a_se": 0.6620780789329929,
+  "r2": 0.00542070936073924
+ }
+}

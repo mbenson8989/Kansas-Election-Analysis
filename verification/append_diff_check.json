@@ -1,0 +1,48 @@
+{
+ "Home": {
+  "old_bytes": 8552,
+  "new_bytes": 9216,
+  "appended_bytes": 664,
+  "old_sha256": "69b57b93fa97832d3ca880a44964aa0ff8ef1e5ac9d7eb532defb03d18aa2421",
+  "prefix_sha256": "69b57b93fa97832d3ca880a44964aa0ff8ef1e5ac9d7eb532defb03d18aa2421",
+  "prefix_identical": true,
+  "suffix_is_addendum": true
+ },
+ "Reverse-Math": {
+  "old_bytes": 19657,
+  "new_bytes": 40211,
+  "appended_bytes": 20554,
+  "old_sha256": "94e2466aa60c25ed47581a915482cb57a097b8f763e05690f50505f58c55bd37",
+  "prefix_sha256": "94e2466aa60c25ed47581a915482cb57a097b8f763e05690f50505f58c55bd37",
+  "prefix_identical": true,
+  "suffix_is_addendum": true
+ },
+ "Locked-Kansas-Formula": {
+  "old_bytes": 6018,
+  "new_bytes": 6018,
+  "appended_bytes": 0,
+  "old_sha256": "081689c0c36f65dc923d30c6e4f223aecf6553f8c36f14115a427ee708f7fddf",
+  "prefix_sha256": "081689c0c36f65dc923d30c6e4f223aecf6553f8c36f14115a427ee708f7fddf",
+  "prefix_identical": true,
+  "suffix_is_addendum": true
+ },
+ "Floor-and-Ceiling": {
+  "old_bytes": 9889,
+  "new_bytes": 9889,
+  "appended_bytes": 0,
+  "old_sha256": "e432edec34ca341b275556d02232213aecaca6fa09b828fc2a4e1ffbde9efc06",
+  "prefix_sha256": "e432edec34ca341b275556d02232213aecaca6fa09b828fc2a4e1ffbde9efc06",
+  "prefix_identical": true,
+  "suffix_is_addendum": true
+ },
+ "Graphs": {
+  "old_bytes": 3941,
+  "new_bytes": 3941,
+  "appended_bytes": 0,
+  "old_sha256": "8895b1e9d404004a5af651ad5ce64dea2f5d65469388426abc7e1d8211669125",
+  "prefix_sha256": "8895b1e9d404004a5af651ad5ce64dea2f5d65469388426abc7e1d8211669125",
+  "prefix_identical": true,
+  "suffix_is_addendum": true
+ },
+ "ALL_OK": true
+}
