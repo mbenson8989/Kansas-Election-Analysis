@@ -90,6 +90,10 @@ for v in (be[0],be[1],see[0],see[1],te,2*stats.t.sf(abs(te),N-2),r2e,np.sqrt(s2e
 for f in (f22,f26,fp): add(f[10]); add(f[11])
 sw=idx['Seward']; c4,m4=round(be[0],4),round(be[1],4); x4=round(el[sw],4)
 for v in (el[sw],m4*x4,c4+m4*x4,dG[sw]-(be[0]+be[1]*el[sw]),D22[sw],D26[sw],b26[1],b26[0],b26[1]*D26[sw]/100+b26[0]): add4(v,'Seward')
+
+# Kansas County PDF Information page: statewide % changes (recomputed from the pass B sums) and the raw cell-check count
+for a_,b_ in (('D_reg_26','D_reg_22'),('D_votes_26','D_votes_22'),('total_votes_26','total_votes_22')): add(100*(sums[a_]-sums[b_])/sums[b_])
+PR=json.load(open(V+'pdf_raw_cell_check.json')); assert PR['PASS'] and not PR['mismatches']; add(PR['cells_checked'])
 # structural constants that are not data values (years, dates/times, counts of things, template numbers)
 STRUCT={'100','2022','2026','2025','2024','2020','11','08','9','15','19','17','16','1','2','3','4','5','6','10','7','12','13','14','18','20','0.20','105','99','93','66','101','4,168','2.0','3.0','25','95'}
 issues=[]; ntok=0
