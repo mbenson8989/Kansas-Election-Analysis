@@ -1,0 +1,4 @@
+counties 105 mismatches 0
+graphics checked 10 mismatches 0
+unrecognised tokens: ['08', '15']
+['Wyandotte', 'Douglas', 'Finney', 'Shawnee', 'Leavenworth', 'Lyon', 'Crawford', 'Miami', 'Harvey', 'Montgomery']
