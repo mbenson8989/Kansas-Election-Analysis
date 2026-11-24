@@ -1,0 +1,4005 @@
+{
+ "refit": [
+  67.60042942203545,
+  6.301350642312564
+ ],
+ "county": {
+  "Bourbon": {
+   "pop": 14319,
+   "D": 16.84769867937798,
+   "S": 11.964009490128355,
+   "fit": 17.69051169805423,
+   "rp": -5.726502207925876,
+   "rv": -262,
+   "gov_D": 1319,
+   "gov_T": 4578
+  },
+  "Anderson": {
+   "pop": 8018,
+   "D": 14.945280437756498,
+   "S": 12.190044694053695,
+   "fit": 16.404469357045144,
+   "rp": -4.214424662991449,
+   "rv": -120,
+   "gov_D": 772,
+   "gov_T": 2845
+  },
+  "Trego": {
+   "pop": 2740,
+   "D": 12.308429118773946,
+   "S": 8.033070510030806,
+   "fit": 14.621947318007663,
+   "rp": -6.588876807976858,
+   "rv": -89,
+   "gov_D": 274,
+   "gov_T": 1347
+  },
+  "Clay": {
+   "pop": 7990,
+   "D": 10.36976170912079,
+   "S": 16.878276914898525,
+   "fit": 13.31140039441249,
+   "rp": 3.5668765204860335,
+   "rv": 118,
+   "gov_D": 903,
+   "gov_T": 3314
+  },
+  "Graham": {
+   "pop": 2371,
+   "D": 9.675645959318306,
+   "S": 13.446883684950468,
+   "fit": 12.842175371083012,
+   "rp": 0.6047083138674553,
+   "rv": 6,
+   "gov_D": 234,
+   "gov_T": 1012
+  },
+  "Stevens": {
+   "pop": 4984,
+   "D": 8.974739970282318,
+   "S": 12.38019375578543,
+   "fit": 12.368360118870728,
+   "rp": 0.011833636914700624,
+   "rv": 0,
+   "gov_D": 290,
+   "gov_T": 1358
+  },
+  "Lane": {
+   "pop": 1508,
+   "D": 7.575757575757576,
+   "S": 11.684643040575244,
+   "fit": 11.422642424242424,
+   "rp": 0.26200061633281974,
+   "rv": 2,
+   "gov_D": 125,
+   "gov_T": 649
+  },
+  "Riley": {
+   "pop": 72598,
+   "D": 27.98493686775456,
+   "S": 30.7235761173051,
+   "fit": 25.219329262349554,
+   "rp": 5.504246854955548,
+   "rv": 1098,
+   "gov_D": 11710,
+   "gov_T": 19946
+  },
+  "Osage": {
+   "pop": 15693,
+   "D": 15.070630749014455,
+   "S": 17.806307555175582,
+   "fit": 16.489206668856767,
+   "rp": 1.3171008863188143,
+   "rv": 80,
+   "gov_D": 1993,
+   "gov_T": 6062
+  },
+  "Atchison": {
+   "pop": 16172,
+   "D": 20.355642927352335,
+   "S": 19.079341592771502,
+   "fit": 20.06189604146189,
+   "rp": -0.9825544486903867,
+   "rv": -51,
+   "gov_D": 2038,
+   "gov_T": 5168
+  },
+  "Ellsworth": {
+   "pop": 6257,
+   "D": 15.330557001561687,
+   "S": 15.66989163011171,
+   "fit": 16.664917855283708,
+   "rp": -0.9950262251719969,
+   "rv": -22,
+   "gov_D": 691,
+   "gov_T": 2229
+  },
+  "Cheyenne": {
+   "pop": 2604,
+   "D": 7.879088206144698,
+   "S": 10.618564376014927,
+   "fit": 11.62769514370664,
+   "rp": -1.0091307676917136,
+   "rv": -11,
+   "gov_D": 197,
+   "gov_T": 1065
+  },
+  "Sumner": {
+   "pop": 22312,
+   "D": 15.988779803646564,
+   "S": 17.488889378587753,
+   "fit": 17.10987910238429,
+   "rp": 0.3790102762034634,
+   "rv": 31,
+   "gov_D": 2706,
+   "gov_T": 8083
+  },
+  "Marshall": {
+   "pop": 9852,
+   "D": 16.202042506210322,
+   "S": 13.836567532399716,
+   "fit": 17.254045542368203,
+   "rp": -3.4174780099684874,
+   "rv": -133,
+   "gov_D": 1167,
+   "gov_T": 3885
+  },
+  "Franklin": {
+   "pop": 26299,
+   "D": 17.331965110312982,
+   "S": 20.923825010613438,
+   "fit": 18.017877742432017,
+   "rp": 2.905947268181422,
+   "rv": 284,
+   "gov_D": 3733,
+   "gov_T": 9758
+  },
+  "Hamilton": {
+   "pop": 2500,
+   "D": 9.298780487804878,
+   "S": 16.05333218825146,
+   "fit": 12.58741280487805,
+   "rp": 3.465919383373411,
+   "rv": 20,
+   "gov_D": 144,
+   "gov_T": 568
+  },
+  "Meade": {
+   "pop": 3852,
+   "D": 9.216300940438872,
+   "S": 12.760100239502131,
+   "fit": 12.531656300940439,
+   "rp": 0.2284439385616926,
+   "rv": 3,
+   "gov_D": 298,
+   "gov_T": 1356
+  },
+  "Wabaunsee": {
+   "pop": 7018,
+   "D": 13.705298633214754,
+   "S": 17.225077213981795,
+   "fit": 15.566236697247707,
+   "rp": 1.6588405167340894,
+   "rv": 54,
+   "gov_D": 1004,
+   "gov_T": 3246
+  },
+  "Osborne": {
+   "pop": 3285,
+   "D": 11.154294597745823,
+   "S": 9.108659771937086,
+   "fit": 13.841747765254567,
+   "rp": -4.733087993317481,
+   "rv": -61,
+   "gov_D": 262,
+   "gov_T": 1293
+  },
+  "Stafford": {
+   "pop": 4005,
+   "D": 10.011376564277588,
+   "S": 14.938855685224734,
+   "fit": 13.069130602957907,
+   "rp": 1.8697250822668277,
+   "rv": 28,
+   "gov_D": 376,
+   "gov_T": 1507
+  },
+  "Clark": {
+   "pop": 1900,
+   "D": 10.899182561307901,
+   "S": 10.92143323521151,
+   "fit": 13.669291008174387,
+   "rp": -2.747857772962878,
+   "rv": -21,
+   "gov_D": 163,
+   "gov_T": 747
+  },
+  "Jefferson": {
+   "pop": 18296,
+   "D": 18.228507105670467,
+   "S": 19.944081726816844,
+   "fit": 18.623943717461657,
+   "rp": 1.3201380093551864,
+   "rv": 104,
+   "gov_D": 3008,
+   "gov_T": 7880
+  },
+  "Shawnee": {
+   "pop": 178607,
+   "D": 30.495163949752673,
+   "S": 26.593916510017443,
+   "fit": 26.916252810688604,
+   "rp": -0.32233630067116403,
+   "rv": -224,
+   "gov_D": 39734,
+   "gov_T": 69600
+  },
+  "Edwards": {
+   "pop": 2640,
+   "D": 12.01086956521739,
+   "S": 12.326716303281136,
+   "fit": 14.420795869565218,
+   "rp": -2.0940795662840808,
+   "rv": -21,
+   "gov_D": 248,
+   "gov_T": 1019
+  },
+  "Grant": {
+   "pop": 7028,
+   "D": 12.217551234892275,
+   "S": 17.344492560728163,
+   "fit": 14.560513504992118,
+   "rp": 2.783979055736045,
+   "rv": 46,
+   "gov_D": 486,
+   "gov_T": 1644
+  },
+  "Morris": {
+   "pop": 5348,
+   "D": 13.93969352446861,
+   "S": 21.438276237950397,
+   "fit": 15.72468858131488,
+   "rp": 5.713587656635517,
+   "rv": 132,
+   "gov_D": 819,
+   "gov_T": 2315
+  },
+  "Marion": {
+   "pop": 11634,
+   "D": 12.455516014234876,
+   "S": 19.076207976365424,
+   "fit": 14.721378647686834,
+   "rp": 4.354829328678591,
+   "rv": 204,
+   "gov_D": 1476,
+   "gov_T": 4681
+  },
+  "Harvey": {
+   "pop": 33580,
+   "D": 23.958871106522114,
+   "S": 22.228779959177732,
+   "fit": 22.497692703493374,
+   "rp": -0.26891274431564166,
+   "rv": -37,
+   "gov_D": 6306,
+   "gov_T": 13653
+  },
+  "Pawnee": {
+   "pop": 5991,
+   "D": 12.834821428571429,
+   "S": 17.648813158629352,
+   "fit": 14.977790625,
+   "rp": 2.671022533629353,
+   "rv": 55,
+   "gov_D": 624,
+   "gov_T": 2047
+  },
+  "Wyandotte": {
+   "pop": 170597,
+   "D": 45.15840060704424,
+   "S": 27.741562100395623,
+   "fit": 36.828659443964334,
+   "rp": -9.087097343568713,
+   "rv": -3899,
+   "gov_D": 31277,
+   "gov_T": 42904
+  },
+  "Gove": {
+   "pop": 2631,
+   "D": 8.38165524512388,
+   "S": 8.530109460758473,
+   "fit": 11.967432472324724,
+   "rp": -3.4373230115662503,
+   "rv": -33,
+   "gov_D": 161,
+   "gov_T": 952
+  },
+  "Elk": {
+   "pop": 2458,
+   "D": 9.581789306511382,
+   "S": 10.37809033240537,
+   "fit": 12.77872789835892,
+   "rp": -2.4006375659535517,
+   "rv": -24,
+   "gov_D": 199,
+   "gov_T": 997
+  },
+  "Kearny": {
+   "pop": 3888,
+   "D": 11.307901907356948,
+   "S": 11.70180683050713,
+   "fit": 13.945586920980926,
+   "rp": -2.243780090473797,
+   "rv": -23,
+   "gov_D": 237,
+   "gov_T": 1030
+  },
+  "Saline": {
+   "pop": 53377,
+   "D": 19.255907491201608,
+   "S": 21.87114168912626,
+   "fit": 19.31847048768225,
+   "rp": 2.552671201444008,
+   "rv": 498,
+   "gov_D": 8028,
+   "gov_T": 19520
+  },
+  "Wallace": {
+   "pop": 1441,
+   "D": 4.366438356164384,
+   "S": 7.2889670492410215,
+   "fit": 9.253129794520548,
+   "rp": -1.964162745279526,
+   "rv": -12,
+   "gov_D": 69,
+   "gov_T": 592
+  },
+  "Scott": {
+   "pop": 4815,
+   "D": 7.756153405838581,
+   "S": 12.862403295192347,
+   "fit": 11.544590726960504,
+   "rp": 1.3178125682318438,
+   "rv": 22,
+   "gov_D": 340,
+   "gov_T": 1649
+  },
+  "Rush": {
+   "pop": 2845,
+   "D": 9.46129470348574,
+   "S": 14.936529694338658,
+   "fit": 12.697273064735175,
+   "rp": 2.2392566296034833,
+   "rv": 29,
+   "gov_D": 314,
+   "gov_T": 1287
+  },
+  "Labette": {
+   "pop": 19685,
+   "D": 19.391025641025642,
+   "S": 18.742674307419108,
+   "fit": 19.409810897435896,
+   "rp": -0.6671365900167885,
+   "rv": -39,
+   "gov_D": 2219,
+   "gov_T": 5819
+  },
+  "Smith": {
+   "pop": 3566,
+   "D": 9.547209547209548,
+   "S": 10.005127516648255,
+   "fit": 12.755351842751843,
+   "rp": -2.750224326103589,
+   "rv": -42,
+   "gov_D": 297,
+   "gov_T": 1519
+  },
+  "Wilson": {
+   "pop": 8299,
+   "D": 10.17453391511305,
+   "S": 13.703903132643823,
+   "fit": 13.179425624752083,
+   "rp": 0.5244775078917412,
+   "rv": 14,
+   "gov_D": 660,
+   "gov_T": 2764
+  },
+  "Seward": {
+   "pop": 21073,
+   "D": 22.964382130105374,
+   "S": 31.515732867498844,
+   "fit": 21.825414177479754,
+   "rp": 9.69031869001909,
+   "rv": 404,
+   "gov_D": 2274,
+   "gov_T": 4174
+  },
+  "Comanche": {
+   "pop": 1673,
+   "D": 9.29203539823009,
+   "S": 13.24764714145245,
+   "fit": 12.582853097345133,
+   "rp": 0.6647940441073185,
+   "rv": 4,
+   "gov_D": 142,
+   "gov_T": 630
+  },
+  "Ness": {
+   "pop": 2617,
+   "D": 8.54526958290946,
+   "S": 7.327746290106412,
+   "fit": 12.078036419125127,
+   "rp": -4.750290129018715,
+   "rv": -51,
+   "gov_D": 170,
+   "gov_T": 1071
+  },
+  "Phillips": {
+   "pop": 4728,
+   "D": 6.282853566958698,
+   "S": 10.307709598946934,
+   "fit": 10.548634142678347,
+   "rp": -0.24092454373141464,
+   "rv": -5,
+   "gov_D": 327,
+   "gov_T": 1971
+  },
+  "Barber": {
+   "pop": 4083,
+   "D": 8.96044802240112,
+   "S": 10.4957453310732,
+   "fit": 12.358698704935247,
+   "rp": -1.8629533738620465,
+   "rv": -31,
+   "gov_D": 322,
+   "gov_T": 1655
+  },
+  "Linn": {
+   "pop": 9950,
+   "D": 12.231677886447352,
+   "S": 11.138487859409002,
+   "fit": 14.570063177949956,
+   "rp": -3.4315753185409537,
+   "rv": -124,
+   "gov_D": 846,
+   "gov_T": 3620
+  },
+  "Woodson": {
+   "pop": 3118,
+   "D": 9.690265486725664,
+   "S": 15.287272698359692,
+   "fit": 12.852058230088495,
+   "rp": 2.435214468271196,
+   "rv": 27,
+   "gov_D": 278,
+   "gov_T": 1113
+  },
+  "Chase": {
+   "pop": 2572,
+   "D": 14.019189765458423,
+   "S": 17.421858269476076,
+   "fit": 15.778428358208956,
+   "rp": 1.6434299112671205,
+   "rv": 19,
+   "gov_D": 360,
+   "gov_T": 1145
+  },
+  "Jewell": {
+   "pop": 2830,
+   "D": 7.63016157989228,
+   "S": 6.8819318312837,
+   "fit": 11.4594197486535,
+   "rp": -4.577487917369801,
+   "rv": -55,
+   "gov_D": 174,
+   "gov_T": 1199
+  },
+  "Rawlins": {
+   "pop": 2431,
+   "D": 7.766990291262136,
+   "S": 11.897501787023046,
+   "fit": 11.551916504854368,
+   "rp": 0.3455852821686769,
+   "rv": 4,
+   "gov_D": 211,
+   "gov_T": 1073
+  },
+  "Butler": {
+   "pop": 69484,
+   "D": 15.794150753371907,
+   "S": 21.20503946758209,
+   "fit": 16.978309085882422,
+   "rp": 4.226730381699667,
+   "rv": 1096,
+   "gov_D": 9595,
+   "gov_T": 25933
+  },
+  "Wichita": {
+   "pop": 2031,
+   "D": 9.693053311793214,
+   "S": 8.65954784427615,
+   "fit": 12.85394281098546,
+   "rp": -4.194394966709311,
+   "rv": -29,
+   "gov_D": 127,
+   "gov_T": 692
+  },
+  "Dickinson": {
+   "pop": 18637,
+   "D": 12.259546368073499,
+   "S": 16.972297207345495,
+   "fit": 14.588902383003159,
+   "rp": 2.383394824342336,
+   "rv": 171,
+   "gov_D": 2093,
+   "gov_T": 7160
+  },
+  "Ottawa": {
+   "pop": 5744,
+   "D": 8.97239263803681,
+   "S": 12.062940147501399,
+   "fit": 12.366773312883435,
+   "rp": -0.3038331653820367,
+   "rv": -7,
+   "gov_D": 512,
+   "gov_T": 2434
+  },
+  "Logan": {
+   "pop": 2661,
+   "D": 6.878582595101616,
+   "S": 11.707092835542083,
+   "fit": 10.951349348619072,
+   "rp": 0.7557434869230112,
+   "rv": 8,
+   "gov_D": 205,
+   "gov_T": 1103
+  },
+  "Reno": {
+   "pop": 61539,
+   "D": 18.3997516773716,
+   "S": 21.542033574892308,
+   "fit": 18.73970573290991,
+   "rp": 2.802327841982395,
+   "rv": 607,
+   "gov_D": 8645,
+   "gov_T": 21644
+  },
+  "Leavenworth": {
+   "pop": 84590,
+   "D": 22.501024170421957,
+   "S": 24.200524298785425,
+   "fit": 21.512182343301927,
+   "rp": 2.688341955483498,
+   "rv": 760,
+   "gov_D": 13210,
+   "gov_T": 28286
+  },
+  "Republic": {
+   "pop": 4640,
+   "D": 10.014265335235377,
+   "S": 12.265527410878612,
+   "fit": 13.071083423680456,
+   "rp": -0.8055560128018449,
+   "rv": -16,
+   "gov_D": 430,
+   "gov_T": 1930
+  },
+  "Douglas": {
+   "pop": 120920,
+   "D": 45.452861641044635,
+   "S": 30.63126671975328,
+   "fit": 37.02771628079274,
+   "rp": -6.396449561039459,
+   "rv": -3245,
+   "gov_D": 38599,
+   "gov_T": 50732
+  },
+  "Mitchell": {
+   "pop": 5590,
+   "D": 9.85046285307382,
+   "S": 12.488246824345536,
+   "fit": 12.960352290529315,
+   "rp": -0.4721054661837783,
+   "rv": -12,
+   "gov_D": 554,
+   "gov_T": 2480
+  },
+  "Doniphan": {
+   "pop": 7594,
+   "D": 10.448057097541634,
+   "S": 12.538651268369234,
+   "fit": 13.364328390166534,
+   "rp": -0.8256771217973002,
+   "rv": -21,
+   "gov_D": 588,
+   "gov_T": 2558
+  },
+  "Gray": {
+   "pop": 5652,
+   "D": 11.400060477774417,
+   "S": 10.822161744447804,
+   "fit": 14.007886483217417,
+   "rp": -3.1857247387696135,
+   "rv": -52,
+   "gov_D": 366,
+   "gov_T": 1647
+  },
+  "Norton": {
+   "pop": 5288,
+   "D": 8.775981524249422,
+   "S": 12.136143058620434,
+   "fit": 12.233998614318706,
+   "rp": -0.09785555569827394,
+   "rv": -2,
+   "gov_D": 376,
+   "gov_T": 1798
+  },
+  "Washington": {
+   "pop": 5533,
+   "D": 7.077486272117144,
+   "S": 11.032749948355296,
+   "fit": 11.085809029896279,
+   "rp": -0.05305908154098187,
+   "rv": -1,
+   "gov_D": 391,
+   "gov_T": 2159
+  },
+  "Finney": {
+   "pop": 37505,
+   "D": 22.13700457317073,
+   "S": 27.400586548578804,
+   "fit": 21.266103639481706,
+   "rp": 6.134482909097098,
+   "rv": 564,
+   "gov_D": 4553,
+   "gov_T": 9191
+  },
+  "Morton": {
+   "pop": 2470,
+   "D": 10.048543689320388,
+   "S": 8.479708610285394,
+   "fit": 13.09425572815534,
+   "rp": -4.614547117869947,
+   "rv": -35,
+   "gov_D": 141,
+   "gov_T": 761
+  },
+  "Rice": {
+   "pop": 9266,
+   "D": 12.355973317161917,
+   "S": 16.508723416897183,
+   "fit": 14.654087386294725,
+   "rp": 1.8546360306024576,
+   "rv": 60,
+   "gov_D": 928,
+   "gov_T": 3215
+  },
+  "Stanton": {
+   "pop": 1986,
+   "D": 12.0,
+   "S": 11.091603053435115,
+   "fit": 14.413448,
+   "rp": -3.3218449465648856,
+   "rv": -17,
+   "gov_D": 121,
+   "gov_T": 524
+  },
+  "Nemaha": {
+   "pop": 10054,
+   "D": 12.130533636485222,
+   "S": 8.044119296788402,
+   "fit": 14.501689260398555,
+   "rp": -6.457569963610154,
+   "rv": -288,
+   "gov_D": 901,
+   "gov_T": 4466
+  },
+  "Rooks": {
+   "pop": 4646,
+   "D": 8.609640568403455,
+   "S": 11.897868494258379,
+   "fit": 12.121551462803009,
+   "rp": -0.22368296854463096,
+   "rv": -4,
+   "gov_D": 396,
+   "gov_T": 1931
+  },
+  "Cowley": {
+   "pop": 34382,
+   "D": 19.06560154926168,
+   "S": 18.50256070081007,
+   "fit": 19.189822909707093,
+   "rp": -0.6872622088970229,
+   "rv": -72,
+   "gov_D": 3927,
+   "gov_T": 10453
+  },
+  "Greenwood": {
+   "pop": 5826,
+   "D": 10.429712805009718,
+   "S": 15.261270430151134,
+   "fit": 13.351927575037788,
+   "rp": 1.909342855113346,
+   "rv": 42,
+   "gov_D": 567,
+   "gov_T": 2207
+  },
+  "Miami": {
+   "pop": 36240,
+   "D": 17.373378219919054,
+   "S": 20.740850522425344,
+   "fit": 18.045873170178158,
+   "rp": 2.694977352247183,
+   "rv": 378,
+   "gov_D": 5352,
+   "gov_T": 14042
+  },
+  "Cherokee": {
+   "pop": 19105,
+   "D": 17.7564183634754,
+   "S": 12.258514438913847,
+   "fit": 18.304809839382827,
+   "rp": -6.046295400468979,
+   "rv": -364,
+   "gov_D": 1809,
+   "gov_T": 6027
+  },
+  "Haskell": {
+   "pop": 3599,
+   "D": 10.326329906124274,
+   "S": 14.624165143380678,
+   "fit": 13.282040321859633,
+   "rp": 1.3421248215210435,
+   "rv": 14,
+   "gov_D": 252,
+   "gov_T": 1010
+  },
+  "Pratt": {
+   "pop": 9117,
+   "D": 13.284390840762105,
+   "S": 18.514389647042773,
+   "fit": 15.281701345918545,
+   "rp": 3.232688301124228,
+   "rv": 106,
+   "gov_D": 1043,
+   "gov_T": 3280
+  },
+  "McPherson": {
+   "pop": 30064,
+   "D": 15.102893235533822,
+   "S": 20.60517156153986,
+   "fit": 16.511016238793808,
+   "rp": 4.094155322746052,
+   "rv": 470,
+   "gov_D": 4100,
+   "gov_T": 11482
+  },
+  "Decatur": {
+   "pop": 2716,
+   "D": 9.551944854751355,
+   "S": 8.813528056176102,
+   "fit": 12.758552929591334,
+   "rp": -3.945024873415232,
+   "rv": -43,
+   "gov_D": 200,
+   "gov_T": 1089
+  },
+  "Greeley": {
+   "pop": 1182,
+   "D": 5.076741440377804,
+   "S": 17.650531286894925,
+   "fit": 9.733297520661157,
+   "rp": 7.917233766233767,
+   "rv": 35,
+   "gov_D": 100,
+   "gov_T": 440
+  },
+  "Crawford": {
+   "pop": 39008,
+   "D": 24.8192084357522,
+   "S": 21.209672430673795,
+   "fit": 23.07928417940223,
+   "rp": -1.8696117487284372,
+   "rv": -228,
+   "gov_D": 5610,
+   "gov_T": 12188
+  },
+  "Kiowa": {
+   "pop": 2432,
+   "D": 8.85657633840053,
+   "S": 10.326170540146578,
+   "fit": 12.28848103106411,
+   "rp": -1.9623104909175342,
+   "rv": -17,
+   "gov_D": 169,
+   "gov_T": 881
+  },
+  "Thomas": {
+   "pop": 7725,
+   "D": 9.567448680351907,
+   "S": 13.932904177799116,
+   "fit": 12.76903357771261,
+   "rp": 1.1638706000865071,
+   "rv": 33,
+   "gov_D": 666,
+   "gov_T": 2834
+  },
+  "Sedgwick": {
+   "pop": 538433,
+   "D": 25.74029025609655,
+   "S": 26.58881767602549,
+   "fit": 23.70193917428229,
+   "rp": 2.886878501743197,
+   "rv": 5245,
+   "gov_D": 95071,
+   "gov_T": 181679
+  },
+  "Sheridan": {
+   "pop": 2427,
+   "D": 7.310420076377524,
+   "S": 5.22492393870259,
+   "fit": 11.243273213311511,
+   "rp": -6.018349274608921,
+   "rv": -64,
+   "gov_D": 133,
+   "gov_T": 1061
+  },
+  "Chautauqua": {
+   "pop": 3321,
+   "D": 8.05892547660312,
+   "S": 11.327909509871182,
+   "fit": 11.749265857885614,
+   "rp": -0.42135634801443367,
+   "rv": -5,
+   "gov_D": 215,
+   "gov_T": 1109
+  },
+  "Ellis": {
+   "pop": 29075,
+   "D": 17.6188166828322,
+   "S": 18.453855820227197,
+   "fit": 18.2117905528613,
+   "rp": 0.24206526736589795,
+   "rv": 26,
+   "gov_D": 3832,
+   "gov_T": 10623
+  },
+  "Johnson": {
+   "pop": 636906,
+   "D": 33.479007730005556,
+   "S": 27.90176863513248,
+   "fit": 28.933343141514676,
+   "rp": -1.0315745063821975,
+   "rv": -3048,
+   "gov_D": 181336,
+   "gov_T": 295428
+  },
+  "Neosho": {
+   "pop": 15637,
+   "D": 15.99639314697926,
+   "S": 17.527610938822576,
+   "fit": 17.115025752930567,
+   "rp": 0.41258518589200993,
+   "rv": 20,
+   "gov_D": 1641,
+   "gov_T": 4895
+  },
+  "Allen": {
+   "pop": 12302,
+   "D": 14.42718883637182,
+   "S": 20.930568724483848,
+   "fit": 16.054237362142697,
+   "rp": 4.87633136234115,
+   "rv": 198,
+   "gov_D": 1438,
+   "gov_T": 4067
+  },
+  "Hodgeman": {
+   "pop": 1619,
+   "D": 9.50510604870385,
+   "S": 11.127631227774831,
+   "fit": 12.726889709347997,
+   "rp": -1.5992584815731665,
+   "rv": -12,
+   "gov_D": 150,
+   "gov_T": 727
+  },
+  "Pottawatomie": {
+   "pop": 27186,
+   "D": 13.918939903721725,
+   "S": 19.26313085012158,
+   "fit": 15.7106590506755,
+   "rp": 3.552471799446079,
+   "rv": 384,
+   "gov_D": 3583,
+   "gov_T": 10798
+  },
+  "Geary": {
+   "pop": 36338,
+   "D": 22.471090738618607,
+   "S": 27.558688892113974,
+   "fit": 21.491947223669133,
+   "rp": 6.06674166844484,
+   "rv": 407,
+   "gov_D": 3360,
+   "gov_T": 6716
+  },
+  "Russell": {
+   "pop": 6581,
+   "D": 10.885089807400995,
+   "S": 13.966981198516164,
+   "fit": 13.659764250162302,
+   "rp": 0.30721694835386176,
+   "rv": 8,
+   "gov_D": 630,
+   "gov_T": 2535
+  },
+  "Brown": {
+   "pop": 9104,
+   "D": 14.535585042219541,
+   "S": 16.58214968207256,
+   "fit": 16.12751363088058,
+   "rp": 0.4546360511919807,
+   "rv": 15,
+   "gov_D": 1044,
+   "gov_T": 3355
+  },
+  "Lincoln": {
+   "pop": 2861,
+   "D": 10.070921985815604,
+   "S": 11.838311191023207,
+   "fit": 13.109383546099291,
+   "rp": -1.271072355076083,
+   "rv": -16,
+   "gov_D": 280,
+   "gov_T": 1278
+  },
+  "Jackson": {
+   "pop": 13438,
+   "D": 17.59827679052235,
+   "S": 18.492804803405544,
+   "fit": 18.19790550350027,
+   "rp": 0.29489929990527664,
+   "rv": 16,
+   "gov_D": 1902,
+   "gov_T": 5270
+  },
+  "Cloud": {
+   "pop": 8833,
+   "D": 12.263660017346053,
+   "S": 14.20599362103971,
+   "fit": 14.591683226366001,
+   "rp": -0.38568960532629126,
+   "rv": -12,
+   "gov_D": 833,
+   "gov_T": 3147
+  },
+  "Lyon": {
+   "pop": 32266,
+   "D": 24.332387047105808,
+   "S": 26.942577289556105,
+   "fit": 22.750190973391714,
+   "rp": 4.19238631616439,
+   "rv": 470,
+   "gov_D": 5751,
+   "gov_T": 11216
+  },
+  "Montgomery": {
+   "pop": 30177,
+   "D": 17.44392523364486,
+   "S": 15.508603603977145,
+   "fit": 18.09356323364486,
+   "rp": -2.5849596296677144,
+   "rv": -233,
+   "gov_D": 2971,
+   "gov_T": 9016
+  },
+  "Ford": {
+   "pop": 33993,
+   "D": 23.840288690995866,
+   "S": 25.150383729998147,
+   "fit": 22.41753051626797,
+   "rp": 2.7328532137301758,
+   "rv": 196,
+   "gov_D": 3519,
+   "gov_T": 7183
+  },
+  "Sherman": {
+   "pop": 5763,
+   "D": 8.93869835268701,
+   "S": 12.033303760361061,
+   "fit": 12.34399584120983,
+   "rp": -0.31069208084876854,
+   "rv": -6,
+   "gov_D": 397,
+   "gov_T": 1893
+  },
+  "Harper": {
+   "pop": 5370,
+   "D": 11.843806568399275,
+   "S": 12.249317416441006,
+   "fit": 14.307860615464184,
+   "rp": -2.0585431990231786,
+   "rv": -38,
+   "gov_D": 445,
+   "gov_T": 1847
+  },
+  "Kingman": {
+   "pop": 7029,
+   "D": 11.438138879097638,
+   "S": 15.120827195215771,
+   "fit": 14.03362763482552,
+   "rp": 1.0871995603902505,
+   "rv": 34,
+   "gov_D": 822,
+   "gov_T": 3095
+  },
+  "Barton": {
+   "pop": 24790,
+   "D": 13.08051341890315,
+   "S": 15.926486225182744,
+   "fit": 15.143879393232206,
+   "rp": 0.782606831950538,
+   "rv": 66,
+   "gov_D": 2445,
+   "gov_T": 8429
+  },
+  "Coffey": {
+   "pop": 8467,
+   "D": 12.157703728142527,
+   "S": 15.052775581175723,
+   "fit": 14.52005635103926,
+   "rp": 0.5327192301364613,
+   "rv": 18,
+   "gov_D": 914,
+   "gov_T": 3359
+  }
+ },
+ "race": {
+  "Governor / Lt. Governor": {
+   "base": [
+    551243,
+    543599,
+    1094842,
+    50.34909146707927,
+    49.65090853292073,
+    0.6981829341585362
+   ],
+   "pos_rm": [
+    536510,
+    543599,
+    1080109,
+    49.67183867554108,
+    50.32816132445892,
+    -0.6563226489178406
+   ],
+   "pos_ra": [
+    536510,
+    558332,
+    1094842,
+    49.003417844766645,
+    50.996582155233355,
+    -1.9931643104667158
+   ],
+   "all_rm": [
+    549787,
+    543599,
+    1093386,
+    50.282974173805044,
+    49.717025826194956,
+    0.5659483476100846
+   ],
+   "all_ra": [
+    549787,
+    545055,
+    1094842,
+    50.21610424152526,
+    49.78389575847474,
+    0.43220848305052234
+   ]
+  },
+  "United States Senate": {
+   "base": [
+    561143,
+    505558,
+    1099896,
+    51.01782350331304,
+    45.96416388458545,
+    5.053659618727589
+   ],
+   "pos_rm": [
+    546410,
+    505558,
+    1085163,
+    50.35280414094473,
+    46.58820840740055,
+    3.7645957335441773
+   ],
+   "pos_ra": [
+    546410,
+    520291,
+    1099896,
+    49.67833322423211,
+    47.30365416366638,
+    2.374679060565726
+   ],
+   "all_rm": [
+    559687,
+    505558,
+    1098440,
+    50.95289683551218,
+    46.025090127817634,
+    4.927806707694549
+   ],
+   "all_ra": [
+    559687,
+    507014,
+    1099896,
+    50.88544735138595,
+    46.09654003651254,
+    4.7889073148734065
+   ]
+  },
+  "Secretary of State": {
+   "base": [
+    515738,
+    524555,
+    1086329,
+    47.475304442760894,
+    48.286937014477196,
+    -0.8116325717163032
+   ],
+   "pos_rm": [
+    501005,
+    524555,
+    1071596,
+    46.753160706086994,
+    48.95081728561883,
+    -2.1976565795318384
+   ],
+   "pos_ra": [
+    501005,
+    539288,
+    1086329,
+    46.119085470423784,
+    49.64315598681431,
+    -3.5240705163905224
+   ],
+   "all_rm": [
+    514282,
+    524555,
+    1084873,
+    47.40481143875827,
+    48.351742554197585,
+    -0.9469311154393187
+   ],
+   "all_ra": [
+    514282,
+    526011,
+    1086329,
+    47.34127506492048,
+    48.42096639231761,
+    -1.079691327397133
+   ]
+  },
+  "State Treasurer": {
+   "base": [
+    479827,
+    554383,
+    1083301,
+    44.29304505396007,
+    51.17534277176888,
+    -6.882297717808808
+   ],
+   "pos_rm": [
+    465094,
+    554383,
+    1068568,
+    43.524979224532274,
+    51.880928494957736,
+    -8.355949270425466
+   ],
+   "pos_ra": [
+    465094,
+    569116,
+    1083301,
+    42.93303523212847,
+    52.535352593600486,
+    -9.60231736147202
+   ],
+   "all_rm": [
+    478371,
+    554383,
+    1081845,
+    44.218071904940174,
+    51.24421705512342,
+    -7.026145150183252
+   ],
+   "all_ra": [
+    478371,
+    555839,
+    1083301,
+    44.15864104251727,
+    51.309746783211686,
+    -7.1511057406944145
+   ]
+  },
+  "Commissioner of Insurance": {
+   "base": [
+    513291,
+    530494,
+    1082558,
+    47.41464198684967,
+    49.00374852894718,
+    -1.5891065420975135
+   ],
+   "pos_rm": [
+    498558,
+    530494,
+    1067825,
+    46.689111043476224,
+    49.67986327347646,
+    -2.990752230000234
+   ],
+   "pos_ra": [
+    498558,
+    545227,
+    1082558,
+    46.05369873946708,
+    50.364691776329764,
+    -4.31099303686269
+   ],
+   "all_rm": [
+    511835,
+    530494,
+    1081102,
+    47.34382139705597,
+    49.06974550042457,
+    -1.7259241033686
+   ],
+   "all_ra": [
+    511835,
+    531950,
+    1082558,
+    47.280145728912444,
+    49.1382447868844,
+    -1.8580990579719516
+   ]
+  }
+ },
+ "pos": 14733,
+ "neg": -13277,
+ "sum_rp": -0.0047494654191864005,
+ "race_county": {
+  "Bourbon": {
+   "United States Senate": {
+    "D-Adam Hamilton": 1382,
+    "R-Roger Marshall": 2971,
+    "L-David C Graham": 220
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 1319,
+    "R-Ty Masterson": 3259
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 1248,
+    "R-Pat Proctor": 3127,
+    "UK-Scott E. Morgan": 158
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 1136,
+    "R-Steven Johnson": 3169,
+    "L-Eric Lund": 250
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 1197,
+    "R-Daniel Hawkins": 3167,
+    "L-Ric Koehn": 175
+   }
+  },
+  "Anderson": {
+   "United States Senate": {
+    "D-Adam Hamilton": 771,
+    "R-Roger Marshall": 1964,
+    "L-David C Graham": 123
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 772,
+    "R-Ty Masterson": 2073
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 693,
+    "R-Pat Proctor": 1988,
+    "UK-Scott E. Morgan": 149
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 565,
+    "R-Steven Johnson": 2019,
+    "L-Eric Lund": 255
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 725,
+    "R-Daniel Hawkins": 2009,
+    "L-Ric Koehn": 97
+   }
+  },
+  "Trego": {
+   "United States Senate": {
+    "D-Adam Hamilton": 276,
+    "R-Roger Marshall": 1001,
+    "L-David C Graham": 82
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 274,
+    "R-Ty Masterson": 1073
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 254,
+    "R-Pat Proctor": 1016,
+    "UK-Scott E. Morgan": 45
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 172,
+    "R-Steven Johnson": 1092,
+    "L-Eric Lund": 55
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 257,
+    "R-Daniel Hawkins": 999,
+    "L-Ric Koehn": 71
+   }
+  },
+  "Clay": {
+   "United States Senate": {
+    "D-Adam Hamilton": 910,
+    "R-Roger Marshall": 2238,
+    "L-David C Graham": 161
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 903,
+    "R-Ty Masterson": 2411
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 822,
+    "R-Pat Proctor": 2294,
+    "UK-Scott E. Morgan": 173
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 607,
+    "R-Steven Johnson": 2513,
+    "L-Eric Lund": 164
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 755,
+    "R-Daniel Hawkins": 2363,
+    "L-Ric Koehn": 155
+   }
+  },
+  "Graham": {
+   "United States Senate": {
+    "D-Adam Hamilton": 230,
+    "R-Roger Marshall": 727,
+    "L-David C Graham": 57
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 234,
+    "R-Ty Masterson": 778
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 193,
+    "R-Pat Proctor": 747,
+    "UK-Scott E. Morgan": 52
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 167,
+    "R-Steven Johnson": 798,
+    "L-Eric Lund": 49
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 253,
+    "R-Daniel Hawkins": 689,
+    "L-Ric Koehn": 50
+   }
+  },
+  "Stevens": {
+   "United States Senate": {
+    "D-Adam Hamilton": 303,
+    "R-Roger Marshall": 976,
+    "L-David C Graham": 61
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 290,
+    "R-Ty Masterson": 1068
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 259,
+    "R-Pat Proctor": 1038,
+    "UK-Scott E. Morgan": 52
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 238,
+    "R-Steven Johnson": 1054,
+    "L-Eric Lund": 53
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 257,
+    "R-Daniel Hawkins": 1006,
+    "L-Ric Koehn": 87
+   }
+  },
+  "Lane": {
+   "United States Senate": {
+    "D-Adam Hamilton": 131,
+    "R-Roger Marshall": 508,
+    "L-David C Graham": 31
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 125,
+    "R-Ty Masterson": 524
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 96,
+    "R-Pat Proctor": 545,
+    "UK-Scott E. Morgan": 26
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 81,
+    "R-Steven Johnson": 560,
+    "L-Eric Lund": 28
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 94,
+    "R-Daniel Hawkins": 511,
+    "L-Ric Koehn": 59
+   }
+  },
+  "Riley": {
+   "United States Senate": {
+    "D-Adam Hamilton": 11848,
+    "R-Roger Marshall": 7616,
+    "L-David C Graham": 556
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 11710,
+    "R-Ty Masterson": 8236
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 10961,
+    "R-Pat Proctor": 8058,
+    "UK-Scott E. Morgan": 819
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 10008,
+    "R-Steven Johnson": 8764,
+    "L-Eric Lund": 903
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 10693,
+    "R-Daniel Hawkins": 8303,
+    "L-Ric Koehn": 675
+   }
+  },
+  "Osage": {
+   "United States Senate": {
+    "D-Adam Hamilton": 2023,
+    "R-Roger Marshall": 3743,
+    "L-David C Graham": 318
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 1993,
+    "R-Ty Masterson": 4069
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 1867,
+    "R-Pat Proctor": 3884,
+    "UK-Scott E. Morgan": 306
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 1518,
+    "R-Steven Johnson": 4052,
+    "L-Eric Lund": 458
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 1778,
+    "R-Daniel Hawkins": 3924,
+    "L-Ric Koehn": 297
+   }
+  },
+  "Atchison": {
+   "United States Senate": {
+    "D-Adam Hamilton": 2113,
+    "R-Roger Marshall": 2836,
+    "L-David C Graham": 227
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 2038,
+    "R-Ty Masterson": 3130
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 1856,
+    "R-Pat Proctor": 3069,
+    "UK-Scott E. Morgan": 215
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 1734,
+    "R-Steven Johnson": 3100,
+    "L-Eric Lund": 301
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 1870,
+    "R-Daniel Hawkins": 3030,
+    "L-Ric Koehn": 214
+   }
+  },
+  "Ellsworth": {
+   "United States Senate": {
+    "D-Adam Hamilton": 702,
+    "R-Roger Marshall": 1459,
+    "L-David C Graham": 83
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 691,
+    "R-Ty Masterson": 1538
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 612,
+    "R-Pat Proctor": 1498,
+    "UK-Scott E. Morgan": 108
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 398,
+    "R-Steven Johnson": 1746,
+    "L-Eric Lund": 80
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 626,
+    "R-Daniel Hawkins": 1491,
+    "L-Ric Koehn": 99
+   }
+  },
+  "Cheyenne": {
+   "United States Senate": {
+    "D-Adam Hamilton": 220,
+    "R-Roger Marshall": 793,
+    "L-David C Graham": 51
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 197,
+    "R-Ty Masterson": 868
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 170,
+    "R-Pat Proctor": 828,
+    "UK-Scott E. Morgan": 68
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 144,
+    "R-Steven Johnson": 889,
+    "L-Eric Lund": 38
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 165,
+    "R-Daniel Hawkins": 837,
+    "L-Ric Koehn": 63
+   }
+  },
+  "Sumner": {
+   "United States Senate": {
+    "D-Adam Hamilton": 2655,
+    "R-Roger Marshall": 5101,
+    "L-David C Graham": 356
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 2706,
+    "R-Ty Masterson": 5377
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 2420,
+    "R-Pat Proctor": 5238,
+    "UK-Scott E. Morgan": 431
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 2130,
+    "R-Steven Johnson": 5479,
+    "L-Eric Lund": 465
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 2364,
+    "R-Daniel Hawkins": 5351,
+    "L-Ric Koehn": 360
+   }
+  },
+  "Marshall": {
+   "United States Senate": {
+    "D-Adam Hamilton": 1256,
+    "R-Roger Marshall": 2467,
+    "L-David C Graham": 169
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 1167,
+    "R-Ty Masterson": 2718
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 1130,
+    "R-Pat Proctor": 2454,
+    "UK-Scott E. Morgan": 237
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 896,
+    "R-Steven Johnson": 2682,
+    "L-Eric Lund": 253
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 1056,
+    "R-Daniel Hawkins": 2549,
+    "L-Ric Koehn": 205
+   }
+  },
+  "Franklin": {
+   "United States Senate": {
+    "D-Adam Hamilton": 3799,
+    "R-Roger Marshall": 5550,
+    "L-David C Graham": 438
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 3733,
+    "R-Ty Masterson": 6025
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 3269,
+    "R-Pat Proctor": 5909,
+    "UK-Scott E. Morgan": 544
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 2961,
+    "R-Steven Johnson": 6005,
+    "L-Eric Lund": 744
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 3260,
+    "R-Daniel Hawkins": 6018,
+    "L-Ric Koehn": 414
+   }
+  },
+  "Hamilton": {
+   "United States Senate": {
+    "D-Adam Hamilton": 133,
+    "R-Roger Marshall": 413,
+    "L-David C Graham": 29
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 144,
+    "R-Ty Masterson": 424
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 118,
+    "R-Pat Proctor": 414,
+    "UK-Scott E. Morgan": 32
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 111,
+    "R-Steven Johnson": 436,
+    "L-Eric Lund": 16
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 120,
+    "R-Daniel Hawkins": 406,
+    "L-Ric Koehn": 39
+   }
+  },
+  "Meade": {
+   "United States Senate": {
+    "D-Adam Hamilton": 299,
+    "R-Roger Marshall": 1005,
+    "L-David C Graham": 51
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 298,
+    "R-Ty Masterson": 1058
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 262,
+    "R-Pat Proctor": 1002,
+    "UK-Scott E. Morgan": 79
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 232,
+    "R-Steven Johnson": 1049,
+    "L-Eric Lund": 61
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 247,
+    "R-Daniel Hawkins": 960,
+    "L-Ric Koehn": 135
+   }
+  },
+  "Wabaunsee": {
+   "United States Senate": {
+    "D-Adam Hamilton": 1026,
+    "R-Roger Marshall": 2072,
+    "L-David C Graham": 150
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 1004,
+    "R-Ty Masterson": 2242
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 898,
+    "R-Pat Proctor": 2176,
+    "UK-Scott E. Morgan": 133
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 711,
+    "R-Steven Johnson": 2296,
+    "L-Eric Lund": 190
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 855,
+    "R-Daniel Hawkins": 2213,
+    "L-Ric Koehn": 144
+   }
+  },
+  "Osborne": {
+   "United States Senate": {
+    "D-Adam Hamilton": 261,
+    "R-Roger Marshall": 965,
+    "L-David C Graham": 66
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 262,
+    "R-Ty Masterson": 1031
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 236,
+    "R-Pat Proctor": 973,
+    "UK-Scott E. Morgan": 67
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 165,
+    "R-Steven Johnson": 1039,
+    "L-Eric Lund": 72
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 239,
+    "R-Daniel Hawkins": 963,
+    "L-Ric Koehn": 70
+   }
+  },
+  "Stafford": {
+   "United States Senate": {
+    "D-Adam Hamilton": 380,
+    "R-Roger Marshall": 1034,
+    "L-David C Graham": 81
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 376,
+    "R-Ty Masterson": 1131
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 340,
+    "R-Pat Proctor": 1040,
+    "UK-Scott E. Morgan": 79
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 251,
+    "R-Steven Johnson": 1112,
+    "L-Eric Lund": 92
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 329,
+    "R-Daniel Hawkins": 1031,
+    "L-Ric Koehn": 99
+   }
+  },
+  "Clark": {
+   "United States Senate": {
+    "D-Adam Hamilton": 153,
+    "R-Roger Marshall": 562,
+    "L-David C Graham": 37
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 163,
+    "R-Ty Masterson": 584
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 145,
+    "R-Pat Proctor": 555,
+    "UK-Scott E. Morgan": 43
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 103,
+    "R-Steven Johnson": 600,
+    "L-Eric Lund": 41
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 122,
+    "R-Daniel Hawkins": 527,
+    "L-Ric Koehn": 95
+   }
+  },
+  "Jefferson": {
+   "United States Senate": {
+    "D-Adam Hamilton": 3070,
+    "R-Roger Marshall": 4516,
+    "L-David C Graham": 326
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 3008,
+    "R-Ty Masterson": 4872
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 2630,
+    "R-Pat Proctor": 4709,
+    "UK-Scott E. Morgan": 487
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 2461,
+    "R-Steven Johnson": 4857,
+    "L-Eric Lund": 465
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 2726,
+    "R-Daniel Hawkins": 4676,
+    "L-Ric Koehn": 376
+   }
+  },
+  "Shawnee": {
+   "United States Senate": {
+    "D-Adam Hamilton": 40400,
+    "R-Roger Marshall": 27085,
+    "L-David C Graham": 2474
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 39734,
+    "R-Ty Masterson": 29866
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 38010,
+    "R-Pat Proctor": 28332,
+    "UK-Scott E. Morgan": 2992
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 34616,
+    "R-Steven Johnson": 31141,
+    "L-Eric Lund": 3414
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 37498,
+    "R-Daniel Hawkins": 29141,
+    "L-Ric Koehn": 2524
+   }
+  },
+  "Edwards": {
+   "United States Senate": {
+    "D-Adam Hamilton": 218,
+    "R-Roger Marshall": 756,
+    "L-David C Graham": 43
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 248,
+    "R-Ty Masterson": 771
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 208,
+    "R-Pat Proctor": 768,
+    "UK-Scott E. Morgan": 41
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 166,
+    "R-Steven Johnson": 815,
+    "L-Eric Lund": 29
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 193,
+    "R-Daniel Hawkins": 770,
+    "L-Ric Koehn": 46
+   }
+  },
+  "Grant": {
+   "United States Senate": {
+    "D-Adam Hamilton": 498,
+    "R-Roger Marshall": 1066,
+    "L-David C Graham": 53
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 486,
+    "R-Ty Masterson": 1158
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 417,
+    "R-Pat Proctor": 1127,
+    "UK-Scott E. Morgan": 88
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 391,
+    "R-Steven Johnson": 1163,
+    "L-Eric Lund": 70
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 410,
+    "R-Daniel Hawkins": 1061,
+    "L-Ric Koehn": 153
+   }
+  },
+  "Morris": {
+   "United States Senate": {
+    "D-Adam Hamilton": 823,
+    "R-Roger Marshall": 1366,
+    "L-David C Graham": 135
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 819,
+    "R-Ty Masterson": 1496
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 695,
+    "R-Pat Proctor": 1403,
+    "UK-Scott E. Morgan": 195
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 558,
+    "R-Steven Johnson": 1562,
+    "L-Eric Lund": 166
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 662,
+    "R-Daniel Hawkins": 1475,
+    "L-Ric Koehn": 150
+   }
+  },
+  "Marion": {
+   "United States Senate": {
+    "D-Adam Hamilton": 1453,
+    "R-Roger Marshall": 3098,
+    "L-David C Graham": 156
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 1476,
+    "R-Ty Masterson": 3205
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 1249,
+    "R-Pat Proctor": 3181,
+    "UK-Scott E. Morgan": 237
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 1048,
+    "R-Steven Johnson": 3424,
+    "L-Eric Lund": 189
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 1219,
+    "R-Daniel Hawkins": 3237,
+    "L-Ric Koehn": 207
+   }
+  },
+  "Harvey": {
+   "United States Senate": {
+    "D-Adam Hamilton": 6413,
+    "R-Roger Marshall": 6950,
+    "L-David C Graham": 374
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 6306,
+    "R-Ty Masterson": 7347
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 5689,
+    "R-Pat Proctor": 7193,
+    "UK-Scott E. Morgan": 644
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 5362,
+    "R-Steven Johnson": 7613,
+    "L-Eric Lund": 538
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 5751,
+    "R-Daniel Hawkins": 7242,
+    "L-Ric Koehn": 513
+   }
+  },
+  "Pawnee": {
+   "United States Senate": {
+    "D-Adam Hamilton": 607,
+    "R-Roger Marshall": 1359,
+    "L-David C Graham": 85
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 624,
+    "R-Ty Masterson": 1423
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 536,
+    "R-Pat Proctor": 1439,
+    "UK-Scott E. Morgan": 71
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 447,
+    "R-Steven Johnson": 1495,
+    "L-Eric Lund": 94
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 537,
+    "R-Daniel Hawkins": 1384,
+    "L-Ric Koehn": 123
+   }
+  },
+  "Wyandotte": {
+   "United States Senate": {
+    "D-Adam Hamilton": 31452,
+    "R-Roger Marshall": 10412,
+    "L-David C Graham": 1317
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 31277,
+    "R-Ty Masterson": 11627
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 30405,
+    "R-Pat Proctor": 10819,
+    "UK-Scott E. Morgan": 1390
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 29746,
+    "R-Steven Johnson": 10968,
+    "L-Eric Lund": 1688
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 30364,
+    "R-Daniel Hawkins": 10755,
+    "L-Ric Koehn": 1153
+   }
+  },
+  "Gove": {
+   "United States Senate": {
+    "D-Adam Hamilton": 161,
+    "R-Roger Marshall": 752,
+    "L-David C Graham": 36
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 161,
+    "R-Ty Masterson": 791
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 136,
+    "R-Pat Proctor": 761,
+    "UK-Scott E. Morgan": 44
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 102,
+    "R-Steven Johnson": 801,
+    "L-Eric Lund": 41
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 134,
+    "R-Daniel Hawkins": 750,
+    "L-Ric Koehn": 56
+   }
+  },
+  "Elk": {
+   "United States Senate": {
+    "D-Adam Hamilton": 184,
+    "R-Roger Marshall": 778,
+    "L-David C Graham": 49
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 199,
+    "R-Ty Masterson": 798
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 166,
+    "R-Pat Proctor": 797,
+    "UK-Scott E. Morgan": 42
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 144,
+    "R-Steven Johnson": 817,
+    "L-Eric Lund": 39
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 157,
+    "R-Daniel Hawkins": 798,
+    "L-Ric Koehn": 46
+   }
+  },
+  "Kearny": {
+   "United States Senate": {
+    "D-Adam Hamilton": 229,
+    "R-Roger Marshall": 767,
+    "L-David C Graham": 29
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 237,
+    "R-Ty Masterson": 793
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 205,
+    "R-Pat Proctor": 767,
+    "UK-Scott E. Morgan": 46
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 181,
+    "R-Steven Johnson": 796,
+    "L-Eric Lund": 43
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 198,
+    "R-Daniel Hawkins": 744,
+    "L-Ric Koehn": 78
+   }
+  },
+  "Saline": {
+   "United States Senate": {
+    "D-Adam Hamilton": 8110,
+    "R-Roger Marshall": 10927,
+    "L-David C Graham": 599
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 8028,
+    "R-Ty Masterson": 11492
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 7371,
+    "R-Pat Proctor": 11110,
+    "UK-Scott E. Morgan": 941
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 5984,
+    "R-Steven Johnson": 12721,
+    "L-Eric Lund": 767
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 7377,
+    "R-Daniel Hawkins": 11189,
+    "L-Ric Koehn": 780
+   }
+  },
+  "Wallace": {
+   "United States Senate": {
+    "D-Adam Hamilton": 64,
+    "R-Roger Marshall": 519,
+    "L-David C Graham": 16
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 69,
+    "R-Ty Masterson": 523
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 47,
+    "R-Pat Proctor": 528,
+    "UK-Scott E. Morgan": 17
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 36,
+    "R-Steven Johnson": 534,
+    "L-Eric Lund": 16
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 42,
+    "R-Daniel Hawkins": 523,
+    "L-Ric Koehn": 25
+   }
+  },
+  "Scott": {
+   "United States Senate": {
+    "D-Adam Hamilton": 341,
+    "R-Roger Marshall": 1254,
+    "L-David C Graham": 60
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 340,
+    "R-Ty Masterson": 1309
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 284,
+    "R-Pat Proctor": 1308,
+    "UK-Scott E. Morgan": 48
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 229,
+    "R-Steven Johnson": 1349,
+    "L-Eric Lund": 60
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 283,
+    "R-Daniel Hawkins": 1255,
+    "L-Ric Koehn": 105
+   }
+  },
+  "Rush": {
+   "United States Senate": {
+    "D-Adam Hamilton": 326,
+    "R-Roger Marshall": 922,
+    "L-David C Graham": 56
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 314,
+    "R-Ty Masterson": 973
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 268,
+    "R-Pat Proctor": 944,
+    "UK-Scott E. Morgan": 65
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 218,
+    "R-Steven Johnson": 992,
+    "L-Eric Lund": 61
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 276,
+    "R-Daniel Hawkins": 930,
+    "L-Ric Koehn": 66
+   }
+  },
+  "Labette": {
+   "United States Senate": {
+    "D-Adam Hamilton": 2234,
+    "R-Roger Marshall": 3345,
+    "L-David C Graham": 260
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 2219,
+    "R-Ty Masterson": 3600
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 2096,
+    "R-Pat Proctor": 3447,
+    "UK-Scott E. Morgan": 250
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 1944,
+    "R-Steven Johnson": 3518,
+    "L-Eric Lund": 323
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 2134,
+    "R-Daniel Hawkins": 3460,
+    "L-Ric Koehn": 196
+   }
+  },
+  "Smith": {
+   "United States Senate": {
+    "D-Adam Hamilton": 298,
+    "R-Roger Marshall": 1173,
+    "L-David C Graham": 52
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 297,
+    "R-Ty Masterson": 1222
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 247,
+    "R-Pat Proctor": 1227,
+    "UK-Scott E. Morgan": 44
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 201,
+    "R-Steven Johnson": 1256,
+    "L-Eric Lund": 61
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 282,
+    "R-Daniel Hawkins": 1182,
+    "L-Ric Koehn": 53
+   }
+  },
+  "Wilson": {
+   "United States Senate": {
+    "D-Adam Hamilton": 676,
+    "R-Roger Marshall": 1964,
+    "L-David C Graham": 147
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 660,
+    "R-Ty Masterson": 2104
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 594,
+    "R-Pat Proctor": 2070,
+    "UK-Scott E. Morgan": 116
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 533,
+    "R-Steven Johnson": 2085,
+    "L-Eric Lund": 163
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 583,
+    "R-Daniel Hawkins": 2054,
+    "L-Ric Koehn": 113
+   }
+  },
+  "Seward": {
+   "United States Senate": {
+    "D-Adam Hamilton": 2306,
+    "R-Roger Marshall": 1742,
+    "L-David C Graham": 140
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 2274,
+    "R-Ty Masterson": 1900
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 2200,
+    "R-Pat Proctor": 1800,
+    "UK-Scott E. Morgan": 162
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 2111,
+    "R-Steven Johnson": 1885,
+    "L-Eric Lund": 151
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 2103,
+    "R-Daniel Hawkins": 1845,
+    "L-Ric Koehn": 205
+   }
+  },
+  "Comanche": {
+   "United States Senate": {
+    "D-Adam Hamilton": 149,
+    "R-Roger Marshall": 446,
+    "L-David C Graham": 33
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 142,
+    "R-Ty Masterson": 488
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 118,
+    "R-Pat Proctor": 461,
+    "UK-Scott E. Morgan": 42
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 83,
+    "R-Steven Johnson": 506,
+    "L-Eric Lund": 30
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 104,
+    "R-Daniel Hawkins": 449,
+    "L-Ric Koehn": 68
+   }
+  },
+  "Ness": {
+   "United States Senate": {
+    "D-Adam Hamilton": 171,
+    "R-Roger Marshall": 877,
+    "L-David C Graham": 36
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 170,
+    "R-Ty Masterson": 901
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 141,
+    "R-Pat Proctor": 883,
+    "UK-Scott E. Morgan": 46
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 108,
+    "R-Steven Johnson": 909,
+    "L-Eric Lund": 41
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 157,
+    "R-Daniel Hawkins": 835,
+    "L-Ric Koehn": 75
+   }
+  },
+  "Phillips": {
+   "United States Senate": {
+    "D-Adam Hamilton": 338,
+    "R-Roger Marshall": 1532,
+    "L-David C Graham": 112
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 327,
+    "R-Ty Masterson": 1644
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 285,
+    "R-Pat Proctor": 1587,
+    "UK-Scott E. Morgan": 78
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 203,
+    "R-Steven Johnson": 1665,
+    "L-Eric Lund": 83
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 414,
+    "R-Daniel Hawkins": 1443,
+    "L-Ric Koehn": 80
+   }
+  },
+  "Barber": {
+   "United States Senate": {
+    "D-Adam Hamilton": 300,
+    "R-Roger Marshall": 1294,
+    "L-David C Graham": 78
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 322,
+    "R-Ty Masterson": 1333
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 287,
+    "R-Pat Proctor": 1263,
+    "UK-Scott E. Morgan": 100
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 214,
+    "R-Steven Johnson": 1366,
+    "L-Eric Lund": 76
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 290,
+    "R-Daniel Hawkins": 1270,
+    "L-Ric Koehn": 89
+   }
+  },
+  "Linn": {
+   "United States Senate": {
+    "D-Adam Hamilton": 879,
+    "R-Roger Marshall": 2602,
+    "L-David C Graham": 150
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 846,
+    "R-Ty Masterson": 2774
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 777,
+    "R-Pat Proctor": 2707,
+    "UK-Scott E. Morgan": 119
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 651,
+    "R-Steven Johnson": 2674,
+    "L-Eric Lund": 288
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 770,
+    "R-Daniel Hawkins": 2716,
+    "L-Ric Koehn": 122
+   }
+  },
+  "Woodson": {
+   "United States Senate": {
+    "D-Adam Hamilton": 271,
+    "R-Roger Marshall": 769,
+    "L-David C Graham": 68
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 278,
+    "R-Ty Masterson": 835
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 262,
+    "R-Pat Proctor": 790,
+    "UK-Scott E. Morgan": 48
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 212,
+    "R-Steven Johnson": 809,
+    "L-Eric Lund": 79
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 241,
+    "R-Daniel Hawkins": 805,
+    "L-Ric Koehn": 49
+   }
+  },
+  "Chase": {
+   "United States Senate": {
+    "D-Adam Hamilton": 365,
+    "R-Roger Marshall": 753,
+    "L-David C Graham": 35
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 360,
+    "R-Ty Masterson": 785
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 314,
+    "R-Pat Proctor": 779,
+    "UK-Scott E. Morgan": 46
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 287,
+    "R-Steven Johnson": 814,
+    "L-Eric Lund": 38
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 319,
+    "R-Daniel Hawkins": 775,
+    "L-Ric Koehn": 42
+   }
+  },
+  "Jewell": {
+   "United States Senate": {
+    "D-Adam Hamilton": 187,
+    "R-Roger Marshall": 960,
+    "L-David C Graham": 53
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 174,
+    "R-Ty Masterson": 1025
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 145,
+    "R-Pat Proctor": 990,
+    "UK-Scott E. Morgan": 61
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 126,
+    "R-Steven Johnson": 1022,
+    "L-Eric Lund": 47
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 160,
+    "R-Daniel Hawkins": 978,
+    "L-Ric Koehn": 51
+   }
+  },
+  "Rawlins": {
+   "United States Senate": {
+    "D-Adam Hamilton": 211,
+    "R-Roger Marshall": 829,
+    "L-David C Graham": 45
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 211,
+    "R-Ty Masterson": 862
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 183,
+    "R-Pat Proctor": 848,
+    "UK-Scott E. Morgan": 37
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 136,
+    "R-Steven Johnson": 867,
+    "L-Eric Lund": 60
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 198,
+    "R-Daniel Hawkins": 823,
+    "L-Ric Koehn": 48
+   }
+  },
+  "Butler": {
+   "United States Senate": {
+    "D-Adam Hamilton": 9533,
+    "R-Roger Marshall": 15651,
+    "L-David C Graham": 869
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 9595,
+    "R-Ty Masterson": 16338
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 8724,
+    "R-Pat Proctor": 16008,
+    "UK-Scott E. Morgan": 1116
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 7866,
+    "R-Steven Johnson": 16713,
+    "L-Eric Lund": 1218
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 8643,
+    "R-Daniel Hawkins": 16160,
+    "L-Ric Koehn": 989
+   }
+  },
+  "Wichita": {
+   "United States Senate": {
+    "D-Adam Hamilton": 128,
+    "R-Roger Marshall": 538,
+    "L-David C Graham": 28
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 127,
+    "R-Ty Masterson": 565
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 121,
+    "R-Pat Proctor": 550,
+    "UK-Scott E. Morgan": 15
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 97,
+    "R-Steven Johnson": 558,
+    "L-Eric Lund": 31
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 126,
+    "R-Daniel Hawkins": 519,
+    "L-Ric Koehn": 46
+   }
+  },
+  "Dickinson": {
+   "United States Senate": {
+    "D-Adam Hamilton": 2117,
+    "R-Roger Marshall": 4777,
+    "L-David C Graham": 307
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 2093,
+    "R-Ty Masterson": 5067
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 1862,
+    "R-Pat Proctor": 4900,
+    "UK-Scott E. Morgan": 349
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 1506,
+    "R-Steven Johnson": 5359,
+    "L-Eric Lund": 268
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 1813,
+    "R-Daniel Hawkins": 5010,
+    "L-Ric Koehn": 300
+   }
+  },
+  "Ottawa": {
+   "United States Senate": {
+    "D-Adam Hamilton": 510,
+    "R-Roger Marshall": 1846,
+    "L-David C Graham": 87
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 512,
+    "R-Ty Masterson": 1922
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 453,
+    "R-Pat Proctor": 1849,
+    "UK-Scott E. Morgan": 97
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 302,
+    "R-Steven Johnson": 2016,
+    "L-Eric Lund": 95
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 464,
+    "R-Daniel Hawkins": 1810,
+    "L-Ric Koehn": 124
+   }
+  },
+  "Logan": {
+   "United States Senate": {
+    "D-Adam Hamilton": 213,
+    "R-Roger Marshall": 834,
+    "L-David C Graham": 49
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 205,
+    "R-Ty Masterson": 898
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 165,
+    "R-Pat Proctor": 870,
+    "UK-Scott E. Morgan": 56
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 130,
+    "R-Steven Johnson": 910,
+    "L-Eric Lund": 52
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 174,
+    "R-Daniel Hawkins": 870,
+    "L-Ric Koehn": 49
+   }
+  },
+  "Reno": {
+   "United States Senate": {
+    "D-Adam Hamilton": 8721,
+    "R-Roger Marshall": 12155,
+    "L-David C Graham": 849
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 8645,
+    "R-Ty Masterson": 12999
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 7861,
+    "R-Pat Proctor": 12731,
+    "UK-Scott E. Morgan": 887
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 6906,
+    "R-Steven Johnson": 13367,
+    "L-Eric Lund": 1075
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 7945,
+    "R-Daniel Hawkins": 12632,
+    "L-Ric Koehn": 831
+   }
+  },
+  "Leavenworth": {
+   "United States Senate": {
+    "D-Adam Hamilton": 13494,
+    "R-Roger Marshall": 13749,
+    "L-David C Graham": 1117
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 13210,
+    "R-Ty Masterson": 15076
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 12423,
+    "R-Pat Proctor": 14244,
+    "UK-Scott E. Morgan": 1527
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 11625,
+    "R-Steven Johnson": 14648,
+    "L-Eric Lund": 1764
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 12441,
+    "R-Daniel Hawkins": 14201,
+    "L-Ric Koehn": 1245
+   }
+  },
+  "Republic": {
+   "United States Senate": {
+    "D-Adam Hamilton": 441,
+    "R-Roger Marshall": 1404,
+    "L-David C Graham": 97
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 430,
+    "R-Ty Masterson": 1500
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 371,
+    "R-Pat Proctor": 1488,
+    "UK-Scott E. Morgan": 78
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 304,
+    "R-Steven Johnson": 1558,
+    "L-Eric Lund": 73
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 357,
+    "R-Daniel Hawkins": 1485,
+    "L-Ric Koehn": 91
+   }
+  },
+  "Douglas": {
+   "United States Senate": {
+    "D-Adam Hamilton": 38854,
+    "R-Roger Marshall": 10985,
+    "L-David C Graham": 1087
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 38599,
+    "R-Ty Masterson": 12133
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 33477,
+    "R-Pat Proctor": 10828,
+    "UK-Scott E. Morgan": 5928
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 34866,
+    "R-Steven Johnson": 12756,
+    "L-Eric Lund": 2255
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 36442,
+    "R-Daniel Hawkins": 11771,
+    "L-Ric Koehn": 1581
+   }
+  },
+  "Mitchell": {
+   "United States Senate": {
+    "D-Adam Hamilton": 540,
+    "R-Roger Marshall": 1858,
+    "L-David C Graham": 71
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 554,
+    "R-Ty Masterson": 1926
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 441,
+    "R-Pat Proctor": 1885,
+    "UK-Scott E. Morgan": 133
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 351,
+    "R-Steven Johnson": 2010,
+    "L-Eric Lund": 98
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 472,
+    "R-Daniel Hawkins": 1881,
+    "L-Ric Koehn": 103
+   }
+  },
+  "Doniphan": {
+   "United States Senate": {
+    "D-Adam Hamilton": 610,
+    "R-Roger Marshall": 1839,
+    "L-David C Graham": 113
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 588,
+    "R-Ty Masterson": 1970
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 530,
+    "R-Pat Proctor": 1919,
+    "UK-Scott E. Morgan": 99
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 481,
+    "R-Steven Johnson": 1934,
+    "L-Eric Lund": 121
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 534,
+    "R-Daniel Hawkins": 1907,
+    "L-Ric Koehn": 89
+   }
+  },
+  "Gray": {
+   "United States Senate": {
+    "D-Adam Hamilton": 372,
+    "R-Roger Marshall": 1204,
+    "L-David C Graham": 71
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 366,
+    "R-Ty Masterson": 1281
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 338,
+    "R-Pat Proctor": 1212,
+    "UK-Scott E. Morgan": 68
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 281,
+    "R-Steven Johnson": 1256,
+    "L-Eric Lund": 84
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 271,
+    "R-Daniel Hawkins": 1059,
+    "L-Ric Koehn": 301
+   }
+  },
+  "Norton": {
+   "United States Senate": {
+    "D-Adam Hamilton": 371,
+    "R-Roger Marshall": 1359,
+    "L-David C Graham": 77
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 376,
+    "R-Ty Masterson": 1422
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 322,
+    "R-Pat Proctor": 1409,
+    "UK-Scott E. Morgan": 55
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 261,
+    "R-Steven Johnson": 1443,
+    "L-Eric Lund": 74
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 349,
+    "R-Daniel Hawkins": 1362,
+    "L-Ric Koehn": 69
+   }
+  },
+  "Washington": {
+   "United States Senate": {
+    "D-Adam Hamilton": 414,
+    "R-Roger Marshall": 1673,
+    "L-David C Graham": 69
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 391,
+    "R-Ty Masterson": 1768
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 361,
+    "R-Pat Proctor": 1714,
+    "UK-Scott E. Morgan": 54
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 263,
+    "R-Steven Johnson": 1795,
+    "L-Eric Lund": 72
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 311,
+    "R-Daniel Hawkins": 1721,
+    "L-Ric Koehn": 85
+   }
+  },
+  "Finney": {
+   "United States Senate": {
+    "D-Adam Hamilton": 4585,
+    "R-Roger Marshall": 4352,
+    "L-David C Graham": 297
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 4553,
+    "R-Ty Masterson": 4638
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 4310,
+    "R-Pat Proctor": 4428,
+    "UK-Scott E. Morgan": 408
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 3958,
+    "R-Steven Johnson": 4703,
+    "L-Eric Lund": 490
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 4111,
+    "R-Daniel Hawkins": 4342,
+    "L-Ric Koehn": 693
+   }
+  },
+  "Morton": {
+   "United States Senate": {
+    "D-Adam Hamilton": 144,
+    "R-Roger Marshall": 565,
+    "L-David C Graham": 29
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 141,
+    "R-Ty Masterson": 620
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 127,
+    "R-Pat Proctor": 585,
+    "UK-Scott E. Morgan": 34
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 104,
+    "R-Steven Johnson": 610,
+    "L-Eric Lund": 32
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 113,
+    "R-Daniel Hawkins": 585,
+    "L-Ric Koehn": 51
+   }
+  },
+  "Rice": {
+   "United States Senate": {
+    "D-Adam Hamilton": 930,
+    "R-Roger Marshall": 2192,
+    "L-David C Graham": 125
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 928,
+    "R-Ty Masterson": 2287
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 796,
+    "R-Pat Proctor": 2269,
+    "UK-Scott E. Morgan": 154
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 637,
+    "R-Steven Johnson": 2433,
+    "L-Eric Lund": 126
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 798,
+    "R-Daniel Hawkins": 2278,
+    "L-Ric Koehn": 136
+   }
+  },
+  "Stanton": {
+   "United States Senate": {
+    "D-Adam Hamilton": 137,
+    "R-Roger Marshall": 364,
+    "L-David C Graham": 30
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 121,
+    "R-Ty Masterson": 403
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 114,
+    "R-Pat Proctor": 377,
+    "UK-Scott E. Morgan": 29
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 103,
+    "R-Steven Johnson": 402,
+    "L-Eric Lund": 14
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 110,
+    "R-Daniel Hawkins": 361,
+    "L-Ric Koehn": 43
+   }
+  },
+  "Nemaha": {
+   "United States Senate": {
+    "D-Adam Hamilton": 927,
+    "R-Roger Marshall": 3376,
+    "L-David C Graham": 191
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 901,
+    "R-Ty Masterson": 3565
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 813,
+    "R-Pat Proctor": 3435,
+    "UK-Scott E. Morgan": 175
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 629,
+    "R-Steven Johnson": 3565,
+    "L-Eric Lund": 206
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 813,
+    "R-Daniel Hawkins": 3415,
+    "L-Ric Koehn": 157
+   }
+  },
+  "Rooks": {
+   "United States Senate": {
+    "D-Adam Hamilton": 379,
+    "R-Roger Marshall": 1468,
+    "L-David C Graham": 75
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 396,
+    "R-Ty Masterson": 1535
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 323,
+    "R-Pat Proctor": 1517,
+    "UK-Scott E. Morgan": 77
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 249,
+    "R-Steven Johnson": 1581,
+    "L-Eric Lund": 76
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 341,
+    "R-Daniel Hawkins": 1476,
+    "L-Ric Koehn": 133
+   }
+  },
+  "Cowley": {
+   "United States Senate": {
+    "D-Adam Hamilton": 3956,
+    "R-Roger Marshall": 6068,
+    "L-David C Graham": 423
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 3927,
+    "R-Ty Masterson": 6526
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 3722,
+    "R-Pat Proctor": 6300,
+    "UK-Scott E. Morgan": 394
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 3370,
+    "R-Steven Johnson": 6586,
+    "L-Eric Lund": 439
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 3620,
+    "R-Daniel Hawkins": 6377,
+    "L-Ric Koehn": 410
+   }
+  },
+  "Greenwood": {
+   "United States Senate": {
+    "D-Adam Hamilton": 562,
+    "R-Roger Marshall": 1564,
+    "L-David C Graham": 91
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 567,
+    "R-Ty Masterson": 1640
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 497,
+    "R-Pat Proctor": 1571,
+    "UK-Scott E. Morgan": 122
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 434,
+    "R-Steven Johnson": 1649,
+    "L-Eric Lund": 102
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 504,
+    "R-Daniel Hawkins": 1601,
+    "L-Ric Koehn": 88
+   }
+  },
+  "Miami": {
+   "United States Senate": {
+    "D-Adam Hamilton": 5488,
+    "R-Roger Marshall": 8167,
+    "L-David C Graham": 457
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 5352,
+    "R-Ty Masterson": 8690
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 4912,
+    "R-Pat Proctor": 8477,
+    "UK-Scott E. Morgan": 629
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 4318,
+    "R-Steven Johnson": 8461,
+    "L-Eric Lund": 1229
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 4846,
+    "R-Daniel Hawkins": 8565,
+    "L-Ric Koehn": 560
+   }
+  },
+  "Cherokee": {
+   "United States Senate": {
+    "D-Adam Hamilton": 1865,
+    "R-Roger Marshall": 3858,
+    "L-David C Graham": 331
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 1809,
+    "R-Ty Masterson": 4218
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 1771,
+    "R-Pat Proctor": 3990,
+    "UK-Scott E. Morgan": 264
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 1618,
+    "R-Steven Johnson": 4113,
+    "L-Eric Lund": 287
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 1709,
+    "R-Daniel Hawkins": 4033,
+    "L-Ric Koehn": 266
+   }
+  },
+  "Haskell": {
+   "United States Senate": {
+    "D-Adam Hamilton": 266,
+    "R-Roger Marshall": 700,
+    "L-David C Graham": 31
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 252,
+    "R-Ty Masterson": 758
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 226,
+    "R-Pat Proctor": 722,
+    "UK-Scott E. Morgan": 53
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 211,
+    "R-Steven Johnson": 737,
+    "L-Eric Lund": 48
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 209,
+    "R-Daniel Hawkins": 695,
+    "L-Ric Koehn": 96
+   }
+  },
+  "Pratt": {
+   "United States Senate": {
+    "D-Adam Hamilton": 1032,
+    "R-Roger Marshall": 2129,
+    "L-David C Graham": 130
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 1043,
+    "R-Ty Masterson": 2237
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 895,
+    "R-Pat Proctor": 2159,
+    "UK-Scott E. Morgan": 181
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 755,
+    "R-Steven Johnson": 2286,
+    "L-Eric Lund": 185
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 890,
+    "R-Daniel Hawkins": 2140,
+    "L-Ric Koehn": 205
+   }
+  },
+  "McPherson": {
+   "United States Senate": {
+    "D-Adam Hamilton": 4132,
+    "R-Roger Marshall": 7084,
+    "L-David C Graham": 329
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 4100,
+    "R-Ty Masterson": 7382
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 3651,
+    "R-Pat Proctor": 7251,
+    "UK-Scott E. Morgan": 516
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 3039,
+    "R-Steven Johnson": 7983,
+    "L-Eric Lund": 373
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 3639,
+    "R-Daniel Hawkins": 7280,
+    "L-Ric Koehn": 452
+   }
+  },
+  "Decatur": {
+   "United States Senate": {
+    "D-Adam Hamilton": 208,
+    "R-Roger Marshall": 831,
+    "L-David C Graham": 57
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 200,
+    "R-Ty Masterson": 889
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 179,
+    "R-Pat Proctor": 865,
+    "UK-Scott E. Morgan": 37
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 151,
+    "R-Steven Johnson": 886,
+    "L-Eric Lund": 40
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 185,
+    "R-Daniel Hawkins": 850,
+    "L-Ric Koehn": 44
+   }
+  },
+  "Greeley": {
+   "United States Senate": {
+    "D-Adam Hamilton": 110,
+    "R-Roger Marshall": 314,
+    "L-David C Graham": 20
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 100,
+    "R-Ty Masterson": 340
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 71,
+    "R-Pat Proctor": 342,
+    "UK-Scott E. Morgan": 27
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 63,
+    "R-Steven Johnson": 356,
+    "L-Eric Lund": 22
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 80,
+    "R-Daniel Hawkins": 327,
+    "L-Ric Koehn": 32
+   }
+  },
+  "Crawford": {
+   "United States Senate": {
+    "D-Adam Hamilton": 5736,
+    "R-Roger Marshall": 5897,
+    "L-David C Graham": 580
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 5610,
+    "R-Ty Masterson": 6578
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 5407,
+    "R-Pat Proctor": 6180,
+    "UK-Scott E. Morgan": 522
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 4964,
+    "R-Steven Johnson": 6600,
+    "L-Eric Lund": 530
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 5241,
+    "R-Daniel Hawkins": 6356,
+    "L-Ric Koehn": 492
+   }
+  },
+  "Kiowa": {
+   "United States Senate": {
+    "D-Adam Hamilton": 167,
+    "R-Roger Marshall": 674,
+    "L-David C Graham": 43
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 169,
+    "R-Ty Masterson": 712
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 141,
+    "R-Pat Proctor": 670,
+    "UK-Scott E. Morgan": 58
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 109,
+    "R-Steven Johnson": 703,
+    "L-Eric Lund": 55
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 150,
+    "R-Daniel Hawkins": 625,
+    "L-Ric Koehn": 95
+   }
+  },
+  "Thomas": {
+   "United States Senate": {
+    "D-Adam Hamilton": 677,
+    "R-Roger Marshall": 2064,
+    "L-David C Graham": 94
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 666,
+    "R-Ty Masterson": 2168
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 565,
+    "R-Pat Proctor": 2139,
+    "UK-Scott E. Morgan": 116
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 479,
+    "R-Steven Johnson": 2248,
+    "L-Eric Lund": 88
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 593,
+    "R-Daniel Hawkins": 2115,
+    "L-Ric Koehn": 116
+   }
+  },
+  "Sedgwick": {
+   "United States Senate": {
+    "D-Adam Hamilton": 96086,
+    "R-Roger Marshall": 82089,
+    "L-David C Graham": 4540
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 95071,
+    "R-Ty Masterson": 86608
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 88804,
+    "R-Pat Proctor": 84295,
+    "UK-Scott E. Morgan": 6278
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 84008,
+    "R-Steven Johnson": 87658,
+    "L-Eric Lund": 7343
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 86794,
+    "R-Daniel Hawkins": 86947,
+    "L-Ric Koehn": 5598
+   }
+  },
+  "Sheridan": {
+   "United States Senate": {
+    "D-Adam Hamilton": 137,
+    "R-Roger Marshall": 870,
+    "L-David C Graham": 41
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 133,
+    "R-Ty Masterson": 928
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 130,
+    "R-Pat Proctor": 905,
+    "UK-Scott E. Morgan": 19
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 102,
+    "R-Steven Johnson": 917,
+    "L-Eric Lund": 32
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 136,
+    "R-Daniel Hawkins": 882,
+    "L-Ric Koehn": 40
+   }
+  },
+  "Chautauqua": {
+   "United States Senate": {
+    "D-Adam Hamilton": 199,
+    "R-Roger Marshall": 869,
+    "L-David C Graham": 41
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 215,
+    "R-Ty Masterson": 894
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 192,
+    "R-Pat Proctor": 888,
+    "UK-Scott E. Morgan": 27
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 166,
+    "R-Steven Johnson": 908,
+    "L-Eric Lund": 35
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 178,
+    "R-Daniel Hawkins": 896,
+    "L-Ric Koehn": 33
+   }
+  },
+  "Ellis": {
+   "United States Senate": {
+    "D-Adam Hamilton": 3850,
+    "R-Roger Marshall": 6475,
+    "L-David C Graham": 320
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 3832,
+    "R-Ty Masterson": 6791
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 3457,
+    "R-Pat Proctor": 6593,
+    "UK-Scott E. Morgan": 429
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 2950,
+    "R-Steven Johnson": 7052,
+    "L-Eric Lund": 426
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 3305,
+    "R-Daniel Hawkins": 6611,
+    "L-Ric Koehn": 543
+   }
+  },
+  "Johnson": {
+   "United States Senate": {
+    "D-Adam Hamilton": 187261,
+    "R-Roger Marshall": 104124,
+    "L-David C Graham": 5666
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 181336,
+    "R-Ty Masterson": 114092
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 173990,
+    "R-Pat Proctor": 110771,
+    "UK-Scott E. Morgan": 8321
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 163459,
+    "R-Steven Johnson": 117597,
+    "L-Eric Lund": 11046
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 172986,
+    "R-Daniel Hawkins": 111652,
+    "L-Ric Koehn": 7093
+   }
+  },
+  "Neosho": {
+   "United States Senate": {
+    "D-Adam Hamilton": 1679,
+    "R-Roger Marshall": 2958,
+    "L-David C Graham": 279
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 1641,
+    "R-Ty Masterson": 3254
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 1526,
+    "R-Pat Proctor": 3102,
+    "UK-Scott E. Morgan": 248
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 1306,
+    "R-Steven Johnson": 3207,
+    "L-Eric Lund": 358
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 1491,
+    "R-Daniel Hawkins": 3197,
+    "L-Ric Koehn": 200
+   }
+  },
+  "Allen": {
+   "United States Senate": {
+    "D-Adam Hamilton": 1451,
+    "R-Roger Marshall": 2388,
+    "L-David C Graham": 248
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 1438,
+    "R-Ty Masterson": 2629
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 1313,
+    "R-Pat Proctor": 2526,
+    "UK-Scott E. Morgan": 221
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 1134,
+    "R-Steven Johnson": 2637,
+    "L-Eric Lund": 298
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 1302,
+    "R-Daniel Hawkins": 2568,
+    "L-Ric Koehn": 190
+   }
+  },
+  "Hodgeman": {
+   "United States Senate": {
+    "D-Adam Hamilton": 145,
+    "R-Roger Marshall": 564,
+    "L-David C Graham": 22
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 150,
+    "R-Ty Masterson": 577
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 124,
+    "R-Pat Proctor": 562,
+    "UK-Scott E. Morgan": 36
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 104,
+    "R-Steven Johnson": 591,
+    "L-Eric Lund": 20
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 118,
+    "R-Daniel Hawkins": 546,
+    "L-Ric Koehn": 56
+   }
+  },
+  "Pottawatomie": {
+   "United States Senate": {
+    "D-Adam Hamilton": 3618,
+    "R-Roger Marshall": 6725,
+    "L-David C Graham": 473
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 3583,
+    "R-Ty Masterson": 7215
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 3279,
+    "R-Pat Proctor": 6956,
+    "UK-Scott E. Morgan": 458
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 2683,
+    "R-Steven Johnson": 7300,
+    "L-Eric Lund": 699
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 3167,
+    "R-Daniel Hawkins": 6971,
+    "L-Ric Koehn": 505
+   }
+  },
+  "Geary": {
+   "United States Senate": {
+    "D-Adam Hamilton": 3384,
+    "R-Roger Marshall": 3012,
+    "L-David C Graham": 356
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 3360,
+    "R-Ty Masterson": 3356
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 3203,
+    "R-Pat Proctor": 3121,
+    "UK-Scott E. Morgan": 352
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 2998,
+    "R-Steven Johnson": 3279,
+    "L-Eric Lund": 386
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 3117,
+    "R-Daniel Hawkins": 3214,
+    "L-Ric Koehn": 327
+   }
+  },
+  "Russell": {
+   "United States Senate": {
+    "D-Adam Hamilton": 651,
+    "R-Roger Marshall": 1786,
+    "L-David C Graham": 112
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 630,
+    "R-Ty Masterson": 1905
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 576,
+    "R-Pat Proctor": 1791,
+    "UK-Scott E. Morgan": 150
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 409,
+    "R-Steven Johnson": 1953,
+    "L-Eric Lund": 145
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 559,
+    "R-Daniel Hawkins": 1791,
+    "L-Ric Koehn": 156
+   }
+  },
+  "Brown": {
+   "United States Senate": {
+    "D-Adam Hamilton": 1093,
+    "R-Roger Marshall": 2100,
+    "L-David C Graham": 180
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 1044,
+    "R-Ty Masterson": 2311
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 972,
+    "R-Pat Proctor": 2229,
+    "UK-Scott E. Morgan": 150
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 833,
+    "R-Steven Johnson": 2318,
+    "L-Eric Lund": 183
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 931,
+    "R-Daniel Hawkins": 2243,
+    "L-Ric Koehn": 144
+   }
+  },
+  "Lincoln": {
+   "United States Senate": {
+    "D-Adam Hamilton": 271,
+    "R-Roger Marshall": 978,
+    "L-David C Graham": 40
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 280,
+    "R-Ty Masterson": 998
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 239,
+    "R-Pat Proctor": 968,
+    "UK-Scott E. Morgan": 58
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 180,
+    "R-Steven Johnson": 1043,
+    "L-Eric Lund": 45
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 237,
+    "R-Daniel Hawkins": 978,
+    "L-Ric Koehn": 44
+   }
+  },
+  "Jackson": {
+   "United States Senate": {
+    "D-Adam Hamilton": 1903,
+    "R-Roger Marshall": 3074,
+    "L-David C Graham": 287
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 1902,
+    "R-Ty Masterson": 3368
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 1695,
+    "R-Pat Proctor": 3213,
+    "UK-Scott E. Morgan": 324
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 1444,
+    "R-Steven Johnson": 3400,
+    "L-Eric Lund": 376
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 1773,
+    "R-Daniel Hawkins": 3142,
+    "L-Ric Koehn": 287
+   }
+  },
+  "Cloud": {
+   "United States Senate": {
+    "D-Adam Hamilton": 846,
+    "R-Roger Marshall": 2171,
+    "L-David C Graham": 140
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 833,
+    "R-Ty Masterson": 2314
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 777,
+    "R-Pat Proctor": 2238,
+    "UK-Scott E. Morgan": 117
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 647,
+    "R-Steven Johnson": 2373,
+    "L-Eric Lund": 112
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 742,
+    "R-Daniel Hawkins": 2257,
+    "L-Ric Koehn": 118
+   }
+  },
+  "Lyon": {
+   "United States Senate": {
+    "D-Adam Hamilton": 5841,
+    "R-Roger Marshall": 4925,
+    "L-David C Graham": 543
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 5751,
+    "R-Ty Masterson": 5465
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 5227,
+    "R-Pat Proctor": 5136,
+    "UK-Scott E. Morgan": 618
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 4821,
+    "R-Steven Johnson": 5396,
+    "L-Eric Lund": 766
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 5071,
+    "R-Daniel Hawkins": 5314,
+    "L-Ric Koehn": 544
+   }
+  },
+  "Montgomery": {
+   "United States Senate": {
+    "D-Adam Hamilton": 2902,
+    "R-Roger Marshall": 5722,
+    "L-David C Graham": 400
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 2971,
+    "R-Ty Masterson": 6045
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 2690,
+    "R-Pat Proctor": 5895,
+    "UK-Scott E. Morgan": 392
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 2468,
+    "R-Steven Johnson": 5982,
+    "L-Eric Lund": 437
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 2672,
+    "R-Daniel Hawkins": 5945,
+    "L-Ric Koehn": 354
+   }
+  },
+  "Ford": {
+   "United States Senate": {
+    "D-Adam Hamilton": 3520,
+    "R-Roger Marshall": 3443,
+    "L-David C Graham": 235
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 3519,
+    "R-Ty Masterson": 3664
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 3342,
+    "R-Pat Proctor": 3462,
+    "UK-Scott E. Morgan": 337
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 3165,
+    "R-Steven Johnson": 3700,
+    "L-Eric Lund": 260
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 3176,
+    "R-Daniel Hawkins": 3437,
+    "L-Ric Koehn": 529
+   }
+  },
+  "Sherman": {
+   "United States Senate": {
+    "D-Adam Hamilton": 400,
+    "R-Roger Marshall": 1415,
+    "L-David C Graham": 86
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 397,
+    "R-Ty Masterson": 1496
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 337,
+    "R-Pat Proctor": 1492,
+    "UK-Scott E. Morgan": 68
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 296,
+    "R-Steven Johnson": 1512,
+    "L-Eric Lund": 85
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 357,
+    "R-Daniel Hawkins": 1441,
+    "L-Ric Koehn": 91
+   }
+  },
+  "Harper": {
+   "United States Senate": {
+    "D-Adam Hamilton": 447,
+    "R-Roger Marshall": 1328,
+    "L-David C Graham": 66
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 445,
+    "R-Ty Masterson": 1402
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 398,
+    "R-Pat Proctor": 1299,
+    "UK-Scott E. Morgan": 115
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 344,
+    "R-Steven Johnson": 1371,
+    "L-Eric Lund": 108
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 389,
+    "R-Daniel Hawkins": 1339,
+    "L-Ric Koehn": 102
+   }
+  },
+  "Kingman": {
+   "United States Senate": {
+    "D-Adam Hamilton": 820,
+    "R-Roger Marshall": 2205,
+    "L-David C Graham": 92
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 822,
+    "R-Ty Masterson": 2273
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 691,
+    "R-Pat Proctor": 2223,
+    "UK-Scott E. Morgan": 156
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 599,
+    "R-Steven Johnson": 2334,
+    "L-Eric Lund": 139
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 724,
+    "R-Daniel Hawkins": 2213,
+    "L-Ric Koehn": 139
+   }
+  },
+  "Barton": {
+   "United States Senate": {
+    "D-Adam Hamilton": 2480,
+    "R-Roger Marshall": 5707,
+    "L-David C Graham": 276
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 2445,
+    "R-Ty Masterson": 5984
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 2164,
+    "R-Pat Proctor": 5761,
+    "UK-Scott E. Morgan": 422
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 1779,
+    "R-Steven Johnson": 6310,
+    "L-Eric Lund": 253
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 2132,
+    "R-Daniel Hawkins": 5819,
+    "L-Ric Koehn": 353
+   }
+  },
+  "Coffey": {
+   "United States Senate": {
+    "D-Adam Hamilton": 935,
+    "R-Roger Marshall": 2277,
+    "L-David C Graham": 164
+   },
+   "Governor / Lt. Governor": {
+    "D-Cindy Holscher": 914,
+    "R-Ty Masterson": 2445
+   },
+   "Secretary of State": {
+    "D-Jennifer Day": 829,
+    "R-Pat Proctor": 2354,
+    "UK-Scott E. Morgan": 169
+   },
+   "State Treasurer": {
+    "D-Juan C. Luengo": 676,
+    "R-Steven Johnson": 2442,
+    "L-Eric Lund": 229
+   },
+   "Commissioner of Insurance": {
+    "D-Dinah Sykes": 796,
+    "R-Daniel Hawkins": 2370,
+    "L-Ric Koehn": 160
+   }
+  }
+ }
+}
