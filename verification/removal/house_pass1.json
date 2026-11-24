@@ -1,0 +1,1061 @@
+{
+ "state_page": {
+  "2": {
+   "D-Don Coover": 110677,
+   "R-Derek Schmidt": 125843,
+   "L-John Hauer": 9201
+  },
+  "3": {
+   "D-Sharice L. Davids": 201050,
+   "R-Eric Jenkins": 129537,
+   "L-Steven A Hohe": 6922
+  },
+  "4": {
+   "D-Katy Tyndell": 114568,
+   "R-Ron Estes": 139155,
+   "L-Drew Cranmer": 6187
+  },
+  "1": {
+   "D-Lauren Reinhold": 95911,
+   "R-Tracey Mann": 150544,
+   "L-Steven Jacob": 6863
+  }
+ },
+ "districts": {
+  "1": {
+   "candidates": [
+    "D-Lauren Reinhold",
+    "R-Tracey Mann",
+    "L-Steven Jacob"
+   ],
+   "counties": 60,
+   "removed_pos": 5038,
+   "net_all": 1616,
+   "baseline": {
+    "D": 95911,
+    "R": 150544,
+    "total": 253318,
+    "D_share": 37.86189690428631,
+    "R_share": 59.428860167852264,
+    "margin_pts": -21.566963263565953,
+    "margin_votes": -54633
+   },
+   "positive_only|remove": {
+    "D": 90873,
+    "R": 150544,
+    "total": 248280,
+    "D_share": 36.601014983083616,
+    "R_share": 60.634767198324475,
+    "margin_pts": -24.033752215240856,
+    "margin_votes": -59671
+   },
+   "positive_only|reassign": {
+    "D": 90873,
+    "R": 155582,
+    "total": 253318,
+    "D_share": 35.873092318745606,
+    "R_share": 61.41766475339297,
+    "margin_pts": -25.54457243464736,
+    "margin_votes": -64709
+   },
+   "all_residuals|remove": {
+    "D": 94295,
+    "R": 150544,
+    "total": 251702,
+    "D_share": 37.46295222127754,
+    "R_share": 59.81041072379242,
+    "margin_pts": -22.34745850251488,
+    "margin_votes": -56249
+   },
+   "all_residuals|reassign": {
+    "D": 94295,
+    "R": 152160,
+    "total": 253318,
+    "D_share": 37.2239635556889,
+    "R_share": 60.06679351644968,
+    "margin_pts": -22.84282996076078,
+    "margin_votes": -57865
+   }
+  },
+  "2": {
+   "candidates": [
+    "D-Don Coover",
+    "R-Derek Schmidt",
+    "L-John Hauer"
+   ],
+   "counties": 27,
+   "removed_pos": 2419,
+   "net_all": -2628,
+   "baseline": {
+    "D": 110677,
+    "R": 125843,
+    "total": 245721,
+    "D_share": 45.04173432470159,
+    "R_share": 51.21377497242808,
+    "margin_pts": -6.172040647726487,
+    "margin_votes": -15166
+   },
+   "positive_only|remove": {
+    "D": 108258,
+    "R": 125843,
+    "total": 243302,
+    "D_share": 44.4953185752686,
+    "R_share": 51.72296158683447,
+    "margin_pts": -7.227643011565873,
+    "margin_votes": -17585
+   },
+   "positive_only|reassign": {
+    "D": 108258,
+    "R": 128262,
+    "total": 245721,
+    "D_share": 44.05728448117988,
+    "R_share": 52.1982248159498,
+    "margin_pts": -8.140940334769923,
+    "margin_votes": -20004
+   },
+   "all_residuals|remove": {
+    "D": 113305,
+    "R": 125843,
+    "total": 248349,
+    "D_share": 45.623296248424595,
+    "R_share": 50.67183681029519,
+    "margin_pts": -5.048540561870594,
+    "margin_votes": -12538
+   },
+   "all_residuals|reassign": {
+    "D": 113305,
+    "R": 123215,
+    "total": 245721,
+    "D_share": 46.11123998355859,
+    "R_share": 50.14426931357108,
+    "margin_pts": -4.033029330012494,
+    "margin_votes": -9910
+   }
+  },
+  "3": {
+   "candidates": [
+    "D-Sharice L. Davids",
+    "R-Eric Jenkins",
+    "L-Steven A Hohe"
+   ],
+   "counties": 5,
+   "removed_pos": 662,
+   "net_all": -3901,
+   "baseline": {
+    "D": 201050,
+    "R": 129537,
+    "total": 337509,
+    "D_share": 59.568781869520514,
+    "R_share": 38.38030985840378,
+    "margin_pts": 21.18847201111674,
+    "margin_votes": 71513
+   },
+   "positive_only|remove": {
+    "D": 200388,
+    "R": 129537,
+    "total": 336847,
+    "D_share": 59.48932304577449,
+    "R_share": 38.455738065056245,
+    "margin_pts": 21.03358498071825,
+    "margin_votes": 70851
+   },
+   "positive_only|reassign": {
+    "D": 200388,
+    "R": 130199,
+    "total": 337509,
+    "D_share": 59.37263895185017,
+    "R_share": 38.57645277607412,
+    "margin_pts": 20.796186175776054,
+    "margin_votes": 70189
+   },
+   "all_residuals|remove": {
+    "D": 204951,
+    "R": 129537,
+    "total": 341410,
+    "D_share": 60.030754810931136,
+    "R_share": 37.94177089130371,
+    "margin_pts": 22.088983919627427,
+    "margin_votes": 75414
+   },
+   "all_residuals|reassign": {
+    "D": 204951,
+    "R": 125636,
+    "total": 337509,
+    "D_share": 60.724602899478235,
+    "R_share": 37.224488828446056,
+    "margin_pts": 23.50011407103218,
+    "margin_votes": 79315
+   }
+  },
+  "4": {
+   "candidates": [
+    "D-Katy Tyndell",
+    "R-Ron Estes",
+    "L-Drew Cranmer"
+   ],
+   "counties": 17,
+   "removed_pos": 6614,
+   "net_all": 6369,
+   "baseline": {
+    "D": 114568,
+    "R": 139155,
+    "total": 259910,
+    "D_share": 44.07987380247008,
+    "R_share": 53.53968681466662,
+    "margin_pts": -9.459813012196529,
+    "margin_votes": -24587
+   },
+   "positive_only|remove": {
+    "D": 107954,
+    "R": 139155,
+    "total": 253296,
+    "D_share": 42.61970185079907,
+    "R_share": 54.937701345461434,
+    "margin_pts": -12.317999494662372,
+    "margin_votes": -31201
+   },
+   "positive_only|reassign": {
+    "D": 107954,
+    "R": 145769,
+    "total": 259910,
+    "D_share": 41.53514678157824,
+    "R_share": 56.084413835558465,
+    "margin_pts": -14.549267053980223,
+    "margin_votes": -37815
+   },
+   "all_residuals|remove": {
+    "D": 108199,
+    "R": 139155,
+    "total": 253541,
+    "D_share": 42.675149186916514,
+    "R_share": 54.884614322732816,
+    "margin_pts": -12.209465135816298,
+    "margin_votes": -30956
+   },
+   "all_residuals|reassign": {
+    "D": 108199,
+    "R": 145524,
+    "total": 259910,
+    "D_share": 41.62941018044708,
+    "R_share": 55.990150436689625,
+    "margin_pts": -14.360740256242545,
+    "margin_votes": -37325
+   }
+  }
+ },
+ "split": {
+  "Douglas": {
+   "pos": {
+    "1": 0,
+    "2": 0
+   },
+   "all": {
+    "1": -2536,
+    "2": -709
+   },
+   "tot": {
+    "1": 39518,
+    "2": 11045
+   }
+  },
+  "Jackson": {
+   "pos": {
+    "1": 15,
+    "2": 1
+   },
+   "all": {
+    "1": 15,
+    "2": 1
+   },
+   "tot": {
+    "1": 4940,
+    "2": 301
+   }
+  },
+  "Pawnee": {
+   "pos": {
+    "1": 27,
+    "4": 28
+   },
+   "all": {
+    "1": 27,
+    "4": 28
+   },
+   "tot": {
+    "1": 1016,
+    "4": 1043
+   }
+  },
+  "Wyandotte": {
+   "pos": {
+    "2": 0,
+    "3": 0
+   },
+   "all": {
+    "2": -2504,
+    "3": -1395
+   },
+   "tot": {
+    "2": 27488,
+    "3": 15313
+   }
+  }
+ },
+ "county_house": {
+  "Allen": {
+   "2": {
+    "D-Don Coover": 1401,
+    "R-Derek Schmidt": 2576,
+    "L-John Hauer": 123
+   }
+  },
+  "Anderson": {
+   "3": {
+    "D-Sharice L. Davids": 750,
+    "R-Eric Jenkins": 2036,
+    "L-Steven A Hohe": 72
+   }
+  },
+  "Atchison": {
+   "2": {
+    "D-Don Coover": 1874,
+    "R-Derek Schmidt": 3098,
+    "L-John Hauer": 193
+   }
+  },
+  "Barber": {
+   "4": {
+    "D-Katy Tyndell": 248,
+    "R-Ron Estes": 1367,
+    "L-Drew Cranmer": 54
+   }
+  },
+  "Barton": {
+   "1": {
+    "D-Lauren Reinhold": 1935,
+    "R-Tracey Mann": 6291,
+    "L-Steven Jacob": 202
+   }
+  },
+  "Bourbon": {
+   "2": {
+    "D-Don Coover": 1298,
+    "R-Derek Schmidt": 3131,
+    "L-John Hauer": 142
+   }
+  },
+  "Brown": {
+   "2": {
+    "D-Don Coover": 955,
+    "R-Derek Schmidt": 2299,
+    "L-John Hauer": 131
+   }
+  },
+  "Butler": {
+   "4": {
+    "D-Katy Tyndell": 8646,
+    "R-Ron Estes": 16694,
+    "L-Drew Cranmer": 721
+   }
+  },
+  "Chase": {
+   "2": {
+    "D-Don Coover": 309,
+    "R-Derek Schmidt": 811,
+    "L-John Hauer": 30
+   }
+  },
+  "Chautauqua": {
+   "4": {
+    "D-Katy Tyndell": 180,
+    "R-Ron Estes": 909,
+    "L-Drew Cranmer": 21
+   }
+  },
+  "Cherokee": {
+   "2": {
+    "D-Don Coover": 1811,
+    "R-Derek Schmidt": 4083,
+    "L-John Hauer": 157
+   }
+  },
+  "Cheyenne": {
+   "1": {
+    "D-Lauren Reinhold": 155,
+    "R-Tracey Mann": 893,
+    "L-Steven Jacob": 28
+   }
+  },
+  "Clark": {
+   "1": {
+    "D-Lauren Reinhold": 119,
+    "R-Tracey Mann": 607,
+    "L-Steven Jacob": 23
+   }
+  },
+  "Clay": {
+   "1": {
+    "D-Lauren Reinhold": 707,
+    "R-Tracey Mann": 2501,
+    "L-Steven Jacob": 102
+   }
+  },
+  "Cloud": {
+   "1": {
+    "D-Lauren Reinhold": 697,
+    "R-Tracey Mann": 2353,
+    "L-Steven Jacob": 96
+   }
+  },
+  "Coffey": {
+   "2": {
+    "D-Don Coover": 800,
+    "R-Derek Schmidt": 2473,
+    "L-John Hauer": 102
+   }
+  },
+  "Comanche": {
+   "4": {
+    "D-Katy Tyndell": 106,
+    "R-Ron Estes": 507,
+    "L-Drew Cranmer": 18
+   }
+  },
+  "Cowley": {
+   "4": {
+    "D-Katy Tyndell": 3657,
+    "R-Ron Estes": 6574,
+    "L-Drew Cranmer": 249
+   }
+  },
+  "Crawford": {
+   "2": {
+    "D-Don Coover": 5668,
+    "R-Derek Schmidt": 6312,
+    "L-John Hauer": 257
+   }
+  },
+  "Decatur": {
+   "1": {
+    "D-Lauren Reinhold": 160,
+    "R-Tracey Mann": 916,
+    "L-Steven Jacob": 19
+   }
+  },
+  "Dickinson": {
+   "1": {
+    "D-Lauren Reinhold": 1680,
+    "R-Tracey Mann": 5291,
+    "L-Steven Jacob": 208
+   }
+  },
+  "Doniphan": {
+   "2": {
+    "D-Don Coover": 511,
+    "R-Derek Schmidt": 1972,
+    "L-John Hauer": 85
+   }
+  },
+  "Douglas": {
+   "1": {
+    "D-Lauren Reinhold": 31393,
+    "R-Tracey Mann": 7070,
+    "L-Steven Jacob": 1055
+   },
+   "2": {
+    "D-Don Coover": 5450,
+    "R-Derek Schmidt": 5220,
+    "L-John Hauer": 375
+   }
+  },
+  "Edwards": {
+   "4": {
+    "D-Katy Tyndell": 195,
+    "R-Ron Estes": 809,
+    "L-Drew Cranmer": 18
+   }
+  },
+  "Elk": {
+   "4": {
+    "D-Katy Tyndell": 168,
+    "R-Ron Estes": 821,
+    "L-Drew Cranmer": 33
+   }
+  },
+  "Ellis": {
+   "1": {
+    "D-Lauren Reinhold": 3174,
+    "R-Tracey Mann": 7177,
+    "L-Steven Jacob": 265
+   }
+  },
+  "Ellsworth": {
+   "1": {
+    "D-Lauren Reinhold": 522,
+    "R-Tracey Mann": 1659,
+    "L-Steven Jacob": 68
+   }
+  },
+  "Finney": {
+   "1": {
+    "D-Lauren Reinhold": 4135,
+    "R-Tracey Mann": 4772,
+    "L-Steven Jacob": 275
+   }
+  },
+  "Ford": {
+   "1": {
+    "D-Lauren Reinhold": 3215,
+    "R-Tracey Mann": 3787,
+    "L-Steven Jacob": 184
+   }
+  },
+  "Franklin": {
+   "3": {
+    "D-Sharice L. Davids": 3817,
+    "R-Eric Jenkins": 5733,
+    "L-Steven A Hohe": 239
+   }
+  },
+  "Geary": {
+   "2": {
+    "D-Don Coover": 3015,
+    "R-Derek Schmidt": 3336,
+    "L-John Hauer": 369
+   }
+  },
+  "Gove": {
+   "1": {
+    "D-Lauren Reinhold": 119,
+    "R-Tracey Mann": 819,
+    "L-Steven Jacob": 21
+   }
+  },
+  "Graham": {
+   "1": {
+    "D-Lauren Reinhold": 165,
+    "R-Tracey Mann": 805,
+    "L-Steven Jacob": 40
+   }
+  },
+  "Grant": {
+   "1": {
+    "D-Lauren Reinhold": 397,
+    "R-Tracey Mann": 1190,
+    "L-Steven Jacob": 59
+   }
+  },
+  "Gray": {
+   "1": {
+    "D-Lauren Reinhold": 301,
+    "R-Tracey Mann": 1292,
+    "L-Steven Jacob": 53
+   }
+  },
+  "Greeley": {
+   "1": {
+    "D-Lauren Reinhold": 65,
+    "R-Tracey Mann": 366,
+    "L-Steven Jacob": 12
+   }
+  },
+  "Greenwood": {
+   "4": {
+    "D-Katy Tyndell": 469,
+    "R-Ron Estes": 1689,
+    "L-Drew Cranmer": 55
+   }
+  },
+  "Hamilton": {
+   "1": {
+    "D-Lauren Reinhold": 114,
+    "R-Tracey Mann": 442,
+    "L-Steven Jacob": 17
+   }
+  },
+  "Harper": {
+   "4": {
+    "D-Katy Tyndell": 371,
+    "R-Ron Estes": 1462,
+    "L-Drew Cranmer": 32
+   }
+  },
+  "Harvey": {
+   "4": {
+    "D-Katy Tyndell": 5762,
+    "R-Ron Estes": 7640,
+    "L-Drew Cranmer": 298
+   }
+  },
+  "Haskell": {
+   "1": {
+    "D-Lauren Reinhold": 214,
+    "R-Tracey Mann": 751,
+    "L-Steven Jacob": 28
+   }
+  },
+  "Hodgeman": {
+   "1": {
+    "D-Lauren Reinhold": 105,
+    "R-Tracey Mann": 605,
+    "L-Steven Jacob": 21
+   }
+  },
+  "Jackson": {
+   "1": {
+    "D-Lauren Reinhold": 1537,
+    "R-Tracey Mann": 3169,
+    "L-Steven Jacob": 234
+   },
+   "2": {
+    "D-Don Coover": 77,
+    "R-Derek Schmidt": 211,
+    "L-John Hauer": 13
+   }
+  },
+  "Jefferson": {
+   "1": {
+    "D-Lauren Reinhold": 2683,
+    "R-Tracey Mann": 4931,
+    "L-Steven Jacob": 260
+   }
+  },
+  "Jewell": {
+   "1": {
+    "D-Lauren Reinhold": 134,
+    "R-Tracey Mann": 1038,
+    "L-Steven Jacob": 31
+   }
+  },
+  "Johnson": {
+   "3": {
+    "D-Sharice L. Davids": 180732,
+    "R-Eric Jenkins": 108829,
+    "L-Steven A Hohe": 5895
+   }
+  },
+  "Kearny": {
+   "1": {
+    "D-Lauren Reinhold": 194,
+    "R-Tracey Mann": 818,
+    "L-Steven Jacob": 21
+   }
+  },
+  "Kingman": {
+   "4": {
+    "D-Katy Tyndell": 719,
+    "R-Ron Estes": 2344,
+    "L-Drew Cranmer": 58
+   }
+  },
+  "Kiowa": {
+   "4": {
+    "D-Katy Tyndell": 132,
+    "R-Ron Estes": 732,
+    "L-Drew Cranmer": 18
+   }
+  },
+  "Labette": {
+   "2": {
+    "D-Don Coover": 2278,
+    "R-Derek Schmidt": 3450,
+    "L-John Hauer": 112
+   }
+  },
+  "Lane": {
+   "1": {
+    "D-Lauren Reinhold": 89,
+    "R-Tracey Mann": 564,
+    "L-Steven Jacob": 21
+   }
+  },
+  "Leavenworth": {
+   "2": {
+    "D-Don Coover": 12176,
+    "R-Derek Schmidt": 14887,
+    "L-John Hauer": 1208
+   }
+  },
+  "Lincoln": {
+   "1": {
+    "D-Lauren Reinhold": 195,
+    "R-Tracey Mann": 1058,
+    "L-Steven Jacob": 28
+   }
+  },
+  "Linn": {
+   "2": {
+    "D-Don Coover": 754,
+    "R-Derek Schmidt": 2765,
+    "L-John Hauer": 107
+   }
+  },
+  "Logan": {
+   "1": {
+    "D-Lauren Reinhold": 154,
+    "R-Tracey Mann": 938,
+    "L-Steven Jacob": 23
+   }
+  },
+  "Lyon": {
+   "2": {
+    "D-Don Coover": 5067,
+    "R-Derek Schmidt": 5667,
+    "L-John Hauer": 470
+   }
+  },
+  "Marion": {
+   "2": {
+    "D-Don Coover": 1167,
+    "R-Derek Schmidt": 3397,
+    "L-John Hauer": 141
+   }
+  },
+  "Marshall": {
+   "1": {
+    "D-Lauren Reinhold": 968,
+    "R-Tracey Mann": 2825,
+    "L-Steven Jacob": 109
+   }
+  },
+  "McPherson": {
+   "1": {
+    "D-Lauren Reinhold": 3474,
+    "R-Tracey Mann": 7754,
+    "L-Steven Jacob": 260
+   }
+  },
+  "Meade": {
+   "1": {
+    "D-Lauren Reinhold": 239,
+    "R-Tracey Mann": 1078,
+    "L-Steven Jacob": 42
+   }
+  },
+  "Miami": {
+   "3": {
+    "D-Sharice L. Davids": 5402,
+    "R-Eric Jenkins": 8360,
+    "L-Steven A Hohe": 331
+   }
+  },
+  "Mitchell": {
+   "1": {
+    "D-Lauren Reinhold": 397,
+    "R-Tracey Mann": 2033,
+    "L-Steven Jacob": 43
+   }
+  },
+  "Montgomery": {
+   "2": {
+    "D-Don Coover": 2602,
+    "R-Derek Schmidt": 6207,
+    "L-John Hauer": 227
+   }
+  },
+  "Morris": {
+   "2": {
+    "D-Don Coover": 691,
+    "R-Derek Schmidt": 1553,
+    "L-John Hauer": 93
+   }
+  },
+  "Morton": {
+   "1": {
+    "D-Lauren Reinhold": 111,
+    "R-Tracey Mann": 623,
+    "L-Steven Jacob": 23
+   }
+  },
+  "Nemaha": {
+   "2": {
+    "D-Don Coover": 748,
+    "R-Derek Schmidt": 3631,
+    "L-John Hauer": 126
+   }
+  },
+  "Neosho": {
+   "2": {
+    "D-Don Coover": 1951,
+    "R-Derek Schmidt": 2896,
+    "L-John Hauer": 87
+   }
+  },
+  "Ness": {
+   "1": {
+    "D-Lauren Reinhold": 126,
+    "R-Tracey Mann": 939,
+    "L-Steven Jacob": 15
+   }
+  },
+  "Norton": {
+   "1": {
+    "D-Lauren Reinhold": 289,
+    "R-Tracey Mann": 1472,
+    "L-Steven Jacob": 36
+   }
+  },
+  "Osage": {
+   "2": {
+    "D-Don Coover": 1797,
+    "R-Derek Schmidt": 4034,
+    "L-John Hauer": 257
+   }
+  },
+  "Osborne": {
+   "1": {
+    "D-Lauren Reinhold": 182,
+    "R-Tracey Mann": 1073,
+    "L-Steven Jacob": 42
+   }
+  },
+  "Ottawa": {
+   "1": {
+    "D-Lauren Reinhold": 379,
+    "R-Tracey Mann": 1994,
+    "L-Steven Jacob": 66
+   }
+  },
+  "Pawnee": {
+   "1": {
+    "D-Lauren Reinhold": 228,
+    "R-Tracey Mann": 756,
+    "L-Steven Jacob": 32
+   },
+   "4": {
+    "D-Katy Tyndell": 265,
+    "R-Ron Estes": 752,
+    "L-Drew Cranmer": 26
+   }
+  },
+  "Phillips": {
+   "1": {
+    "D-Lauren Reinhold": 223,
+    "R-Tracey Mann": 1706,
+    "L-Steven Jacob": 45
+   }
+  },
+  "Pottawatomie": {
+   "1": {
+    "D-Lauren Reinhold": 3011,
+    "R-Tracey Mann": 7496,
+    "L-Steven Jacob": 319
+   }
+  },
+  "Pratt": {
+   "4": {
+    "D-Katy Tyndell": 905,
+    "R-Ron Estes": 2298,
+    "L-Drew Cranmer": 92
+   }
+  },
+  "Rawlins": {
+   "1": {
+    "D-Lauren Reinhold": 160,
+    "R-Tracey Mann": 895,
+    "L-Steven Jacob": 24
+   }
+  },
+  "Reno": {
+   "1": {
+    "D-Lauren Reinhold": 7502,
+    "R-Tracey Mann": 13498,
+    "L-Steven Jacob": 626
+   }
+  },
+  "Republic": {
+   "1": {
+    "D-Lauren Reinhold": 341,
+    "R-Tracey Mann": 1555,
+    "L-Steven Jacob": 49
+   }
+  },
+  "Rice": {
+   "1": {
+    "D-Lauren Reinhold": 749,
+    "R-Tracey Mann": 2413,
+    "L-Steven Jacob": 90
+   }
+  },
+  "Riley": {
+   "1": {
+    "D-Lauren Reinhold": 10758,
+    "R-Tracey Mann": 8697,
+    "L-Steven Jacob": 497
+   }
+  },
+  "Rooks": {
+   "1": {
+    "D-Lauren Reinhold": 295,
+    "R-Tracey Mann": 1581,
+    "L-Steven Jacob": 48
+   }
+  },
+  "Rush": {
+   "1": {
+    "D-Lauren Reinhold": 229,
+    "R-Tracey Mann": 1032,
+    "L-Steven Jacob": 31
+   }
+  },
+  "Russell": {
+   "1": {
+    "D-Lauren Reinhold": 489,
+    "R-Tracey Mann": 1978,
+    "L-Steven Jacob": 84
+   }
+  },
+  "Saline": {
+   "1": {
+    "D-Lauren Reinhold": 6869,
+    "R-Tracey Mann": 12161,
+    "L-Steven Jacob": 528
+   }
+  },
+  "Scott": {
+   "1": {
+    "D-Lauren Reinhold": 252,
+    "R-Tracey Mann": 1356,
+    "L-Steven Jacob": 47
+   }
+  },
+  "Sedgwick": {
+   "4": {
+    "D-Katy Tyndell": 90031,
+    "R-Ron Estes": 87904,
+    "L-Drew Cranmer": 4220
+   }
+  },
+  "Seward": {
+   "1": {
+    "D-Lauren Reinhold": 2114,
+    "R-Tracey Mann": 1949,
+    "L-Steven Jacob": 104
+   }
+  },
+  "Shawnee": {
+   "2": {
+    "D-Don Coover": 36388,
+    "R-Derek Schmidt": 30202,
+    "L-John Hauer": 3254
+   }
+  },
+  "Sheridan": {
+   "1": {
+    "D-Lauren Reinhold": 110,
+    "R-Tracey Mann": 960,
+    "L-Steven Jacob": 16
+   }
+  },
+  "Sherman": {
+   "1": {
+    "D-Lauren Reinhold": 310,
+    "R-Tracey Mann": 1556,
+    "L-Steven Jacob": 42
+   }
+  },
+  "Smith": {
+   "1": {
+    "D-Lauren Reinhold": 235,
+    "R-Tracey Mann": 1255,
+    "L-Steven Jacob": 33
+   }
+  },
+  "Stafford": {
+   "4": {
+    "D-Katy Tyndell": 306,
+    "R-Ron Estes": 1164,
+    "L-Drew Cranmer": 34
+   }
+  },
+  "Stanton": {
+   "1": {
+    "D-Lauren Reinhold": 107,
+    "R-Tracey Mann": 407,
+    "L-Steven Jacob": 13
+   }
+  },
+  "Stevens": {
+   "1": {
+    "D-Lauren Reinhold": 249,
+    "R-Tracey Mann": 1064,
+    "L-Steven Jacob": 47
+   }
+  },
+  "Sumner": {
+   "4": {
+    "D-Katy Tyndell": 2408,
+    "R-Ron Estes": 5489,
+    "L-Drew Cranmer": 240
+   }
+  },
+  "Thomas": {
+   "1": {
+    "D-Lauren Reinhold": 526,
+    "R-Tracey Mann": 2264,
+    "L-Steven Jacob": 55
+   }
+  },
+  "Trego": {
+   "1": {
+    "D-Lauren Reinhold": 184,
+    "R-Tracey Mann": 1141,
+    "L-Steven Jacob": 32
+   }
+  },
+  "Wabaunsee": {
+   "2": {
+    "D-Don Coover": 891,
+    "R-Derek Schmidt": 2278,
+    "L-John Hauer": 89
+   }
+  },
+  "Wallace": {
+   "1": {
+    "D-Lauren Reinhold": 45,
+    "R-Tracey Mann": 552,
+    "L-Steven Jacob": 6
+   }
+  },
+  "Washington": {
+   "1": {
+    "D-Lauren Reinhold": 294,
+    "R-Tracey Mann": 1811,
+    "L-Steven Jacob": 46
+   }
+  },
+  "Wichita": {
+   "1": {
+    "D-Lauren Reinhold": 108,
+    "R-Tracey Mann": 567,
+    "L-Steven Jacob": 19
+   }
+  },
+  "Wilson": {
+   "2": {
+    "D-Don Coover": 681,
+    "R-Derek Schmidt": 2057,
+    "L-John Hauer": 61
+   }
+  },
+  "Woodson": {
+   "2": {
+    "D-Don Coover": 252,
+    "R-Derek Schmidt": 836,
+    "L-John Hauer": 30
+   }
+  },
+  "Wyandotte": {
+   "2": {
+    "D-Don Coover": 20065,
+    "R-Derek Schmidt": 6461,
+    "L-John Hauer": 962
+   },
+   "3": {
+    "D-Sharice L. Davids": 10349,
+    "R-Eric Jenkins": 4579,
+    "L-Steven A Hohe": 385
+   }
+  }
+ }
+}
