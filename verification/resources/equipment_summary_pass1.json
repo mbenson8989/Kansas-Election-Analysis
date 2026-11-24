@@ -1,0 +1,24 @@
+{
+ "Clear Ballot": {
+  "counties": 2,
+  "population": 47899
+ },
+ "ES&S": {
+  "counties": 57,
+  "population": 2464919
+ },
+ "Liberty Vote (Dominion)": {
+  "counties": 18,
+  "population": 164174
+ },
+ "Unisyn": {
+  "counties": 28,
+  "population": 300228
+ },
+ "_total_pop": 2977220,
+ "_n_confirmed": 105,
+ "_api_version_fields_nonempty": 5,
+ "_api_audit": [
+  "{\"audit_comprehensiveness\": null, \"audit_binding\": null, \"audit_main\": null}"
+ ]
+}

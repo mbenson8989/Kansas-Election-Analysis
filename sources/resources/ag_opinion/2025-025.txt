@@ -1,0 +1,193 @@
+                                December 16, 2025
+
+
+
+ATTORNY GENERAL OPINION NO. 2025-25
+
+Honorable Mike Thompson
+Kansas Senate, District 10
+State Capitol
+300 SW 10th St., Room 136-E
+Topeka, Kansas 66612
+
+
+Re:         Elections—Voting Places and Materials Therefore—Preservation of
+            Ballots and Election Records
+
+Synopsis:   County election officers’ duty to destroy ballots pursuant to K.S.A. 25-
+            2708(b) is directory and not mandatory, and such duty must give way
+            to a search warrant or subpoena compelling the production or
+            preservation of such ballots pursuant to a criminal prosecution or
+            investigation. However, mere notice of a pending criminal
+            investigation is likely not enough to forestall the directive to destroy
+            ballots. Cited herein: K.S.A. 25-2708
+
+Dear Senator Thompson:
+
+As a member of the Kansas Senate and as Chairman of the Committee on Federal
+and State Affairs, you request our “opinion on the authority of the Johnson County
+Election Commissioner to destroy paper copies of cast ballots, when those ballots
+are subject to a pending criminal investigation by the Johnson County Sheriff.”
+
+In your letter, you reference this office’s letter to Johnson County Election
+Commissioner Fred Sherman, in which we noted that the “Commission had voted to
+move forward with a ballot destruction process pursuant to K.S.A. 25-2708(b),
+which dictates a particular timeline for ballot destruction following an election.” It
+is our understanding that the ballots in question have subsequently been destroyed.
+Thus, the specific question you ask has become moot.
+
+The larger question, however, remains: whether ballots may be destroyed when a
+criminal investigation is pending and law enforcement has requested retention of
+such ballots. We will answer that question as it may be relevant to future elections.
+
+                                  Ballot Destruction Statute
+
+Since 1893, Kansas has had a statute governing ballot destruction.1 The statute,
+now codified at K.S.A. 25-2708, requires that the county election officer preserve all
+ballots and make them available to canvassing boards.2 The statute also requires
+the county election officer to “preserve all county, city, school district and township
+ballots for six months and all state and national ballots for 22 months.”3 However,
+at the expiration of such time, “the county election officer shall destroy them
+without previously opening any of the envelopes . . . .”4 The statute further provides
+that if any election is being contested, “the ballots shall not be destroyed until such
+contest is finally decided.”5
+
+Kansas law also limits access to election ballots. For example, the law prohibits
+disclosing or exposing the contents of any ballot, except as ordered by a court in an
+election contest, or inducing any voter to show how the voter has marked a ballot.6
+The county election officer must also ensure that a ballot cannot be associated with
+the voter who cast it.7
+
+Kansas law prescribes criminal penalties for those who engage in election fraud,
+which includes voting without being qualified,8 election tampering,9 voting machine
+fraud,10 falsely impersonating a voter,11 and voting more than once.12 These
+particular election crimes are all felonies. But the investigation, determination, and
+prosecution of such crimes can take longer than 6 or 22 months, creating a conflict
+
+1 1893 Kan. Sess. Laws, Ch. 78, § 25.
+2 K.S.A. 25-2708(a).
+3 K.S.A. 25-2708(b). Federal law requires that ballots for federal office be retained and preserved for
+
+22 months. 52 U.S.C. § 20701.
+4 K.S.A. 25-2708(b).
+5 Id. Other than for questions submitted, notice of an election contest must be filed within five days
+
+after the certificate of election is issued. K.S.A. 25-1439. Because it is unlikely that a contest would
+extend beyond six months, the destruction statute is probably not implicated.
+6 K.S.A. 25-2422.
+7 K.A.R. 7-29-3.
+8 K.S.A. 25-2416.
+9 K.S.A. 25-2423.
+10 K.S.A. 25-2425.
+11 K.S.A. 25-2431.
+12 K.S.A. 25-3434.
+with the directive to destroy ballots at 6 or 22 months and the need to prosecute and
+deter election crime. Thus, the operative language in K.S.A. 25-2708(b), stating that
+county election officers “shall destroy” ballots after a specified period of time, is the
+operative text to be interpreted in order to answer the question presented.
+
+                 The Term “Shall” in K.S.A. 25-2708(b) is Directory
+
+It is well established in Kansas law that the Legislature’s use of the word “shall” is
+in most contexts to be considered mandatory, while in other contexts it is merely
+directory.13 Generally speaking, mandatory provisions deal with substance while
+directory provisions deal with form.14 “The distinction between mandatory and
+directory provisions of a statute lies in the consequence of nonobservance. An act
+done in disobedience of a mandatory provision is void. While a directory provision
+should be obeyed, an act done in disobedience of it may still be valid.”15 Put another
+way, in instances where they are not adhered to, the difference between mandatory
+and directory provisions is one of effect. Neither type of provision is to be
+disregarded, but a violation of a directory provision has no consequences, while the
+failure to comply with a mandatory provision causes affirmative legal liabilities.16
+“No absolute test exists by which it may be determined whether a statute is
+directory or mandatory. Each case must stand largely on its own facts, to be
+determined on an interpretation of the particular language used.”17
+
+Our review of K.S.A. 25-2708(b) leads us to conclude that its provisions are merely
+directory. While the ballot destruction provision furthers election finality, the
+preservation of voter privacy, and ballot secrecy, it contains no sanction for an
+election officer’s failure to destroy ballots after 6 or 22 months, respectively. In
+contrast, the immediately preceding provisions requiring ballot preservation and
+retention exist for the purposes of protecting the right to vote and ensuring election
+integrity.18 And the corresponding federal law contains penalties for failing to
+
+13 State v. Raschke, 289 Kan. 911, 914-15, 219 P.3d 481 (2009).
+14 Id. at 916.
+15 Id. at 917 (quoting Hooper v. McNaughton, 113 Kan. 405, 407, 214 P. 613 (1923)).
+16 Wilcox v. Billings, 200 Kan. 654, 657, 438 P.2d 108 (1968).
+17 Id. at 657. See also Griffin v. Rogers, 232 Kan. 168, 174, 653 P.2d 463 (1982) (absence of penalty
+
+for noncompliance, lack of effect on essential rights from noncompliance indicates directory
+provision); State v. Bishop, 264 Kan. 717, 720, 957 P.2d 369 (1998) (statutory provisions requiring
+law enforcement to provide oral and written notice to individuals suspected of DUI before
+administering breath test mandatory).
+18 The United States Department of Justice takes the view that the purpose of the ballot
+
+preservation and retention provision of the Civil Rights Act of 1960, 52 U.S.C. § 20701, is to “secure
+a more effective protection of the right to vote.” U.S. Dep’t of Just., Federal Law Constraints on Post-
+Election “Audits” (April 2024), https://www.justice.gov/crt/media/1348586/dl?inline. See also
+Alabama ex rel. Gallion v. Rogers, 187 F. Supp. 848, 853 (M.D. Ala. 1960) (purpose of section to
+ensure more effective protection of right to vote); United States v. Ass’n of Citizens Councils of La.,
+187 F. Supp. 846, 847 (W.D. La. 1960) (chief purpose is to facilitate the investigation of the records
+before suit is filed).
+preserve and retain ballots.19 Moreover, as we have previously noted, ballots are not
+to be destroyed during an election contest, suggesting that any directive to destroy
+ballots is subordinate to election integrity and preservation of the right to vote.
+
+     Ballot Destruction Provisions of K.S.A. 25-2708(b) are Subordinate to
+                               Judicial Process
+
+We agree with the proposition that mere notice of a pending criminal investigation
+is likely not enough to forestall the directive to destroy ballots after 6 or 22
+months.20 This conclusion is supported by the fact that there is not a common law
+duty to preserve evidence, and Kansas does not recognize the independent tort of
+spoliation of evidence.21 While destroying evidence with the intent to prevent or
+hinder a prosecution is a crime,22 a person following the statutory directive to
+destroy ballots likely lacks such an intent.
+
+However, given the directory nature of K.S.A. 25-2708(b), its ballot destruction
+provisions must give way to judicial processes which are mandatory given the
+contempt powers of the court.23 Absent a reprieve from the court, an election officer
+is bound to obey, for example, a search warrant24 or subpoena seeking ballots. 25
+K.S.A. 25-2708(b) tacitly recognizes this as it contains an exception to the ballot
+destruction directive for election contests, which are judicial proceedings.26
+Moreover, a judicially-supervised effort to forestall ballot destruction can include
+orders to protect voter and ballot confidentiality,27 thus safeguarding the sometimes
+competing goals of voter and ballot confidentiality and election integrity.
+
+Accordingly, we conclude that the ballot destruction directive contained in K.S.A.
+25-2708(b) is directory, and must give way to judicial processes such as a search
+warrant or subpoena compelling the production or preservation of such ballots.
+
+
+
+
+19 52 U.S.C. § 20702.
+20 But see 52 U.S.C. § 20703 (any record required to be retained under this section shall be produced
+
+to Attorney General upon request).
+21 Superior Boiler Works v. Kimball, 292 Kan. 885, 896, 909, 259 P.3d 676 (2011).
+22 K.S.A. 21-5804(a)(2).
+23
+   See In re Marriage of Shelhamer, 50 Kan. App. 2d 152, 155, 323 P.3d 184 (2014) (courts exercise
+contempt powers to punish those who disrespect its orders).
+24 K.S.A. 22-2502 (search warrant issued by magistrate after showing of probable cause).
+25 K.S.A. 22-3214(1) (prosecution entitled to use subpoenas and may be issued in same manner as
+
+civil cases); K.S.A. 60-245(a)(1)(D) (subpoena may be issued to command production of documents).
+26 See K.S.A. 25-1434, et seq. (election contest act); K.S.A. 25-1437 (notice of election contest to be
+
+filed in district court).
+27 K.S.A. 22-2502(e)(4) (magistrate may restrict disclosure of information obtained).
+Sincerely,
+
+/s/ Kris W. Kobach
+
+Kris W. Kobach
+Attorney General
+
+/s/ Anthony J. Powell
+
+Anthony J. Powell
+Solicitor General
+

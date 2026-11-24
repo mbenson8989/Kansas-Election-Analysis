@@ -1,0 +1,177 @@
+
+ Kansas Statutes 
+ Skip to main content 
+ Kansas Legislature 
+ kslegislature.gov 
+ menu 
+ Home 
+ House 
+ account_balance About the House 
+ groups Representatives 
+ campaign Events 
+ chair Seating Chart 
+ auto_stories Journals & Calendars 
+ manage_accounts Chief Clerk of the House 
+ gavel Rules 
+ Senate 
+ account_balance About the Senate 
+ groups Senators 
+ campaign Events 
+ assignment_ind Appointments 
+ chair Seating Chart 
+ auto_stories Journals & Calendars 
+ manage_accounts Secretary of the Senate 
+ gavel Rules 
+ Committees 
+ groups Committees 
+ event Hearing Schedule 
+ handshake Conference Committee Schedule 
+ Measures & Laws 
+ gavel All Measures 
+ account_balance House Measures 
+ account_balance Senate Measures 
+ account_balance Votes 
+ topic Subject Index 
+ summarize Reports 
+ menu_book Statutes 
+ school How a Bill Becomes Law 
+ menu_book Legislative Procedure Manual 
+ Today 
+ campaign Live Floor Activity 
+ videocam House Video 
+ videocam Senate Video 
+ live_tv Statehouse Live & Archive 
+ smart_display YouTube Channel 
+ Resources 
+ Archive 
+ Search 
+ description 
+ Go to bill or resolution 
+ arrow_forward 
+ A − 
+ A + 
+ search 
+ Search bills, resolutions, and statutes 
+ help 
+ Keywords 
+Enter any words to search bills, statutes, and documents.
+ water quality funding 
+ Bill or Resolution Number 
+Type a number and press Enter to go directly to the detail page.
+ HB 2590 SCR 1611 
+ Statute Number 
+ 68-102 72-3715 
+ Exact Phrase 
+Wrap your query in quotes.
+ “rules of evidence” 
+ Document Type 
+Prefix with a type to narrow results.
+ testimony: HB 2513 minutes: budget 
+ Searching…
+ No results found.
+ search 
+ Search bills, resolutions, and statutes 
+ Home 
+ House 
+ About the House 
+ Representatives 
+ Events 
+ Seating Chart 
+ Journals & Calendars 
+ Chief Clerk of the House 
+ Rules 
+ Senate 
+ About the Senate 
+ Senators 
+ Events 
+ Appointments 
+ Seating Chart 
+ Journals & Calendars 
+ Secretary of the Senate 
+ Rules 
+ Committees 
+ All Committees 
+ Hearing Schedule 
+ Conference Committee Schedule 
+ Measures & Laws 
+ All Measures 
+ House Measures 
+ Senate Measures 
+ Votes 
+ Subject Index 
+ Reports 
+ Statutes 
+ How a Bill Becomes Law 
+ Legislative Procedure Manual 
+ Resources 
+ Today 
+ Live Floor Activity 
+ House Video 
+ Senate Video 
+ Statehouse Live & Archive 
+ YouTube Channel 
+ Archive 
+ Search 
+ Laws 
+ Chapter 75 » 
+ Article 7 » 
+ Section 11 » 
+ 2026 Kansas Statutes 
+ search 
+ Search
+ Measures Affecting This Section 
+ Enacted only
+ HB 2271 
+ — Removing the expiration of provisions relating to moving cybersecurity services under the chief information technology officer of each branch of government.
+ (amending · As Introduced)
+ HB 2574 
+ — Removing the expiration on certain cybersecurity requirements, modifying the duties of chief information security officers and cybersecurity programs, requiring assessment of executive branch agency compliance with cybersecurity requirements, providing for consideration of such compliance by the legislature during the budget process and creating the judicial branch technology oversight council.
+ (amending · As Introduced)
+ Prev Article 7. - ATTORNEY GENERAL Next 
+ 75-711.  Kansas bureau of investigation; establishment; director and other personnel; chief information security officer; cybersecurity standards. (a) There is hereby established, under the jurisdiction of the attorney general, a division to be known as the Kansas bureau of investigation. The director of the bureau shall be appointed by the attorney general, subject to confirmation by the senate as provided in K.S.A. 75-4315b, and amendments thereto, and shall have special training and qualifications for such position. Except as provided by K.S.A. 46-2601, and amendments thereto, no person appointed as director shall exercise any power, duty or function as director until confirmed by the senate. In accordance with appropriation acts, the director shall appoint agents who shall be trained in the detection and apprehension of criminals. The director shall appoint an associate director, and any such assistant directors from within the agency as are necessary for the efficient operation of the bureau, who shall have the qualifications and employee benefits, including longevity, of an agent. The director also may appoint a deputy director and, in accordance with appropriation acts, such administrative employees as are necessary for the efficient operation of the bureau. No person shall be appointed to a position within the Kansas bureau of investigation if the person has been convicted of a felony.
+ (b) The director, associate director, deputy director, assistant directors and any assistant attorneys general assigned to the bureau shall be within the unclassified service under the Kansas civil service act. All other agents and employees of the bureau shall be in the classified service under the Kansas civil service act and their compensation shall be determined as provided in the Kansas civil service act and shall receive actual and necessary expenses.
+ (c) Any person who was a member of the bureau at the time of appointment as director, associate director or assistant director, upon the expiration of their appointment, shall be returned to an unclassified or regular classified position under the Kansas civil service act with compensation comparable to and not lower than compensation being received at the time of appointment to the unclassified service. If all such possible positions are filled at that time, a temporary additional position shall be created for the person until a vacancy exists in the position. While serving in the temporary additional position, the person shall continue to be a contributing member of the retirement system for the agents of the Kansas bureau of investigation.
+ (d) Each agent of the bureau shall subscribe to an oath to faithfully discharge the duties of such agent's office, as is required of other public officials.
+ (e) (1) The director shall appoint a chief information security officer who shall be responsible for establishing security standards and policies to protect the bureau's information technology systems and infrastructure. The chief information security officer shall:
+ (A) Develop a cybersecurity program for the bureau that complies with the national institute of standards and technology cybersecurity framework (CSF) 2.0, as in effect on July 1, 2024. The chief information security officer shall ensure that such programs achieve a CSF tier of 3.0 prior to July 1, 2028, and a CSF tier of 4.0 prior to July 1, 2030;
+ (B) ensure that the director and all employees complete cybersecurity awareness training annually and that if an employee does not complete the required training, such employee's access to any state-issued hardware or the state network is revoked; and
+ (C) (i) (a) coordinate with the United States cybersecurity and infrastructure security agency to perform annual audits of the department for compliance with applicable state and federal laws, rules and regulations and department policies and standards; and
+ (b) make an audit request to such agency annually, regardless of whether or not such agency has the capacity to perform the requested audit.
+ (ii) Results of audits conducted pursuant to this paragraph shall be confidential and shall not be subject to discovery or disclosure pursuant to the open records act, K.S.A. 45-215 et seq., and amendments thereto.
+ (2) The provisions of this subsection shall expire on July 1, 2026.
+ History:  L. 1939, ch. 310, § 1; L. 1943, ch. 276, § 2; L. 1945, ch. 318, § 1; L. 1947, ch. 413, § 1; L. 1949, ch. 423, § 7; L. 1955, ch. 362, § 1; L. 1961, ch. 405, § 1; L. 1963, ch. 418, § 1; L. 1965, ch. 460, § 1; L. 1968, ch. 331, § 1; L. 1971, ch. 267, § 1; L. 1973, ch. 335, § 1; L. 1974, ch. 373, § 1; L. 1975, ch. 401, § 2; L. 1978, ch. 332, § 33; L. 1981, ch. 325, § 1; L. 1982, ch. 347, § 49; L. 1987, ch. 331, § 4; L. 1995, ch. 213, § 1; L. 2001, ch. 66, § 1; L. 2008, ch. 121, § 17; L. 2024, ch. 95, § 15; July 1.
+ Prev Article 7. - ATTORNEY GENERAL Next 
+ Related Statutes 
+ © 2026 Revisor of Statutes, State of Kansas
+ arrow_upward 
+ Top
+ Kansas State Legislature 
+ 300 SW 10th Ave, Topeka, KS 66612
+ Ad Astra Per Aspera
+ Kansas Legislative Hotline
+In-State: 1-800-432-3924
+Out-of-State: 785-296-2149 
+ Government 
+ Legislators 
+ House 
+ Representatives 
+ Senate 
+ Senators 
+ Committees 
+ Resources 
+ Bills & Measures 
+ Today 
+ Live 
+ Journals 
+ Calendars 
+ Archived Records 
+ Laws 
+ Search 
+ RSS Feeds 
+ Support 
+ Contact Us 
+ Accessibility 
+ Privacy Policy 
+ Visit Us 
+ © 2026 Kansas State Legislature. All rights reserved. 
+ Data updated 0 minutes ago · 8:22 AM 11/24/2026 

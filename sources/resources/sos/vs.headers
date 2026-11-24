@@ -1,0 +1,31 @@
+HTTP/2 302 
+server: CloudFront
+content-type: text/html; charset=UTF-8
+content-length: 163
+location: https://sos.ks.gov/messages/page404.html
+cache-control: no-cache
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=6000; includeSubDomains
+date: Tue, 24 Nov 2026 14:25:48 GMT
+x-cache: Miss from cloudfront
+via: 1.1 9a111dbe61bee12be3ece6259502a5ba.cloudfront.net (CloudFront)
+x-amz-cf-pop: MCI50-P2
+x-amz-cf-id: GSn_jwGR8u_YUed5CyelMm0MzZIaEgJCC3m8PBxHRFtaH3Wu6fI_2A==
+
+HTTP/2 200 
+server: CloudFront
+content-type: text/html
+content-length: 30732
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=6000; includeSubDomains
+date: Tue, 24 Nov 2026 13:32:33 GMT
+x-cache: Hit from cloudfront
+via: 1.1 9a111dbe61bee12be3ece6259502a5ba.cloudfront.net (CloudFront)
+x-amz-cf-pop: MCI50-P2
+x-amz-cf-id: aLqcAsRxgWmZVNEIK5Uuu9AjtZstG8qX_Rt5bdgyQqnXuB7JIls8Rg==
+age: 3195
+

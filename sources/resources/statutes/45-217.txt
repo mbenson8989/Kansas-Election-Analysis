@@ -1,0 +1,184 @@
+
+ Kansas Statutes 
+ Skip to main content 
+ Kansas Legislature 
+ kslegislature.gov 
+ menu 
+ Home 
+ House 
+ account_balance About the House 
+ groups Representatives 
+ campaign Events 
+ chair Seating Chart 
+ auto_stories Journals & Calendars 
+ manage_accounts Chief Clerk of the House 
+ gavel Rules 
+ Senate 
+ account_balance About the Senate 
+ groups Senators 
+ campaign Events 
+ assignment_ind Appointments 
+ chair Seating Chart 
+ auto_stories Journals & Calendars 
+ manage_accounts Secretary of the Senate 
+ gavel Rules 
+ Committees 
+ groups Committees 
+ event Hearing Schedule 
+ handshake Conference Committee Schedule 
+ Measures & Laws 
+ gavel All Measures 
+ account_balance House Measures 
+ account_balance Senate Measures 
+ account_balance Votes 
+ topic Subject Index 
+ summarize Reports 
+ menu_book Statutes 
+ school How a Bill Becomes Law 
+ menu_book Legislative Procedure Manual 
+ Today 
+ campaign Live Floor Activity 
+ videocam House Video 
+ videocam Senate Video 
+ live_tv Statehouse Live & Archive 
+ smart_display YouTube Channel 
+ Resources 
+ Archive 
+ Search 
+ description 
+ Go to bill or resolution 
+ arrow_forward 
+ A − 
+ A + 
+ search 
+ Search bills, resolutions, and statutes 
+ help 
+ Keywords 
+Enter any words to search bills, statutes, and documents.
+ water quality funding 
+ Bill or Resolution Number 
+Type a number and press Enter to go directly to the detail page.
+ HB 2590 SCR 1611 
+ Statute Number 
+ 68-102 72-3715 
+ Exact Phrase 
+Wrap your query in quotes.
+ “rules of evidence” 
+ Document Type 
+Prefix with a type to narrow results.
+ testimony: HB 2513 minutes: budget 
+ Searching…
+ No results found.
+ search 
+ Search bills, resolutions, and statutes 
+ Home 
+ House 
+ About the House 
+ Representatives 
+ Events 
+ Seating Chart 
+ Journals & Calendars 
+ Chief Clerk of the House 
+ Rules 
+ Senate 
+ About the Senate 
+ Senators 
+ Events 
+ Appointments 
+ Seating Chart 
+ Journals & Calendars 
+ Secretary of the Senate 
+ Rules 
+ Committees 
+ All Committees 
+ Hearing Schedule 
+ Conference Committee Schedule 
+ Measures & Laws 
+ All Measures 
+ House Measures 
+ Senate Measures 
+ Votes 
+ Subject Index 
+ Reports 
+ Statutes 
+ How a Bill Becomes Law 
+ Legislative Procedure Manual 
+ Resources 
+ Today 
+ Live Floor Activity 
+ House Video 
+ Senate Video 
+ Statehouse Live & Archive 
+ YouTube Channel 
+ Archive 
+ Search 
+ Laws 
+ Chapter 45 » 
+ Article 2 » 
+ Section 17 » 
+ 2026 Kansas Statutes 
+ search 
+ Search
+ Prev Article 2. - RECORDS OPEN TO PUBLIC Next 
+ 45-217.  Definitions. As used in the open records act, unless the context otherwise requires:
+ (a) "Automated license plate recognition system" means one or more high-speed cameras combined with computer algorithms used to convert images of license plates into computer readable data.
+ (b) "Business day" means any day other than a Saturday, Sunday or day designated as a holiday by the congress of the United States, by the legislature or governor of this state or by the respective political subdivision of this state.
+ (c) "Captured license plate data" means the global positioning device coordinates, date and time, photograph, license plate number and any other data captured by or derived from an automated license plate recognition system.
+ (d) "Clearly unwarranted invasion of personal privacy" means revealing information that would be highly offensive to a reasonable person, including information that may pose a risk to a person or property and is not of legitimate concern to the public.
+ (e) "Criminal investigation records" means:
+ (1) Every audio or video recording made and retained by law enforcement using a body camera or vehicle camera as defined by K.S.A. 45-254, and amendments thereto; and
+ (2) records of an investigatory agency or criminal justice agency as defined by K.S.A. 22-4701, and amendments thereto, compiled in the process of preventing, detecting or investigating violations of criminal law, but does not include police blotter entries, court records, rosters of inmates of jails or other correctional or detention facilities or records pertaining to violations of any traffic law other than vehicular homicide as defined by K.S.A. 21-3405, prior to its repeal, or K.S.A. 21-5406, and amendments thereto.
+ (f) "Custodian" means the official custodian or any person designated by the official custodian to carry out the duties of custodian of this act.
+ (g) "Cybersecurity assessment" means an investigation undertaken by a person, governmental body or other entity to identify vulnerabilities in cybersecurity plans.
+ (h) "Cybersecurity plan" means information about a person's information systems, network security, encryption, network mapping, access control, passwords, authentication practices, computer hardware or software or response to cybersecurity incidents.
+ (i) "Cybersecurity vulnerability" means a deficiency within computer hardware or software, or within a computer network or information system, that could be exploited by unauthorized parties for use against an individual computer user or a computer network or information system.
+ (j) "Official custodian" means any officer or employee of a public agency who is responsible for the maintenance of public records, regardless of whether such records are in the officer's or employee's actual personal custody and control.
+ (k) (1) "Public agency" means the state or any political or taxing subdivision of the state or any office, agency or instrumentality thereof, or any other entity receiving or expending and supported in whole or in part by the public funds appropriated by the state or by public funds of any political or taxing subdivision of the state.
+ (2) "Public agency" does not include:
+ (A) Any entity solely by reason of payment from public funds for property, goods or services of such entity; or
+ (B) any municipal judge, judge of the district court, judge of the court of appeals or justice of the supreme court.
+ (l) (1) "Public record" means any recorded information, regardless of form, characteristics or location, that is made, maintained or kept by or is in the possession of:
+ (A) Any public agency; or
+ (B) any officer or employee of a public agency pursuant to the officer's or employee's official duties and that is related to the functions, activities, programs or operations of any public agency.
+ (2) "Public record" includes, but is not limited to, an agreement in settlement of litigation involving the Kansas public employees retirement system and the investment of moneys of the fund.
+ (3) Notwithstanding the provisions of paragraph (1), "public record" does not include:
+ (A) Records that are owned by a private person or entity and are not related to functions, activities, programs or operations funded by public funds. As used in this subparagraph, "private person" does not include an officer or employee of a public agency who is acting pursuant to the officer's or employee's official duties;
+ (B) records that are made, maintained or kept by an individual who is a member of the legislature or of the governing body of any political or taxing subdivision of the state; or
+ (C) records of employers related to the employer's individually identifiable contributions made on behalf of employees for workers compensation, social security, unemployment insurance or retirement. The provisions of this subparagraph shall not apply to records of employers of lump-sum payments for contributions as described in this subparagraph paid for any group, division or section of an agency.
+ (m) "Undercover agent" means an employee of a public agency responsible for criminal law enforcement who is engaged in the detection or investigation of violations of criminal law in a capacity where such employee's identity or employment by the public agency is secret.
+ History:  L. 1984, ch. 187, § 3; L. 1992, ch. 321, § 22; L. 1994, ch. 293, § 4; L. 2005, ch. 126, § 7; L. 2011, ch. 30, § 191; L. 2016, ch. 82, § 10; L. 2021, ch. 82, § 10; L. 2022, ch. 48, § 1; July 1.
+ Prev Article 2. - RECORDS OPEN TO PUBLIC Next 
+ Related Statutes 
+ © 2026 Revisor of Statutes, State of Kansas
+ arrow_upward 
+ Top
+ Kansas State Legislature 
+ 300 SW 10th Ave, Topeka, KS 66612
+ Ad Astra Per Aspera
+ Kansas Legislative Hotline
+In-State: 1-800-432-3924
+Out-of-State: 785-296-2149 
+ Government 
+ Legislators 
+ House 
+ Representatives 
+ Senate 
+ Senators 
+ Committees 
+ Resources 
+ Bills & Measures 
+ Today 
+ Live 
+ Journals 
+ Calendars 
+ Archived Records 
+ Laws 
+ Search 
+ RSS Feeds 
+ Support 
+ Contact Us 
+ Accessibility 
+ Privacy Policy 
+ Visit Us 
+ © 2026 Kansas State Legislature. All rights reserved. 
+ Data updated 0 minutes ago · 8:23 AM 11/24/2026 
